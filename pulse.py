@@ -177,7 +177,7 @@ def nice_ticks(lo, hi):
 
 def render_chart(race, theme):
     c = THEMES[theme]
-    W, H, L, R, T, B = 880, 400, 52, 168, 92, 36
+    W, H, L, R, T, B = 880, 400, 52, 168, 52, 66
     pts = [p for s in race.values() for p in s]
     ticks, step = nice_ticks(min(p[1] for p in pts), max(p[1] for p in pts))
     y0, y1 = ticks[0], ticks[-1]
@@ -189,13 +189,14 @@ def render_chart(race, theme):
     s = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" {font} role="img" aria-labelledby="t d">',
          f'<title id="t">Best LMArena text rating by lab, {d0:%b %Y} to {d1:%b %Y}</title>',
          '<desc id="d">' + escape("; ".join(f"{LAB_NAMES[l]} {round(v[-1][1])} ({v[-1][2]})" for l, v in race.items() if v)) + '</desc>',
-         f'<text x="{L}" y="26" font-size="17" font-weight="600" fill="{c["ink"]}">Who leads the frontier?</text>',
-         f'<text x="{L}" y="47" font-size="12.5" fill="{c["ink2"]}">Best LMArena text rating per lab at each leaderboard update · data: LMArena (CC BY 4.0) · updated {d1:%b %-d, %Y}</text>']
-    x = L  # legend row
+         f'<text x="{L}" y="26" font-size="17" font-weight="600" fill="{c["ink"]}">Who leads the frontier?</text>']
+    x, ly = L, H - 14  # legend row along the bottom
     for i, lab in enumerate(LABS):
-        s.append(f'<line x1="{x}" y1="70" x2="{x + 16}" y2="70" stroke="{c["series"][i]}" stroke-width="2" stroke-linecap="round"/>'
-                 f'<text x="{x + 22}" y="74" font-size="12" fill="{c["ink2"]}">{LAB_NAMES[lab]}</text>')
+        s.append(f'<line x1="{x}" y1="{ly - 4}" x2="{x + 16}" y2="{ly - 4}" stroke="{c["series"][i]}" stroke-width="2" stroke-linecap="round"/>'
+                 f'<text x="{x + 22}" y="{ly}" font-size="12" fill="{c["ink2"]}">{LAB_NAMES[lab]}</text>')
         x += 36 + 6.4 * len(LAB_NAMES[lab])
+    # CC BY 4.0 requires crediting LMArena wherever the chart is shown
+    s.append(f'<text x="{W - R}" y="{ly}" font-size="11" fill="{c["muted"]}" text-anchor="end">LMArena text rating · data CC BY 4.0</text>')
     for v in ticks:
         s.append(f'<line x1="{L}" x2="{W - R}" y1="{Y(v):.1f}" y2="{Y(v):.1f}" stroke="{c["grid"] if v != y0 else c["axis"]}" stroke-width="1"/>'
                  f'<text x="{L - 8}" y="{Y(v) + 4:.1f}" font-size="11" fill="{c["muted"]}" text-anchor="end" style="font-variant-numeric:tabular-nums">{v}</text>')
