@@ -1,0 +1,26 @@
+name: pulse
+on:
+  schedule:
+    - cron: "40 7 * * *" # daily; LMArena usually publishes overnight US time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyarrow==21.0.0
+      - run: python -m unittest -q
+      - run: python pulse.py
+      - run: |
+          git config user.name vmitchell
+          git config user.email 1186919+vmitchell@users.noreply.github.com
+          git add -A
+          git diff --cached --quiet || git commit -qm "pulse $(date -u +%F)"
+          git push

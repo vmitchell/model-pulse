@@ -1,0 +1,12 @@
+[
+  {"name": "Gemini 4 Argon",    "lab": "google",    "arena": "Gemini 4 Argon",    "epoch": "Gemini 4 Argon",    "openrouter": "google/gemini-4-argon"},
+  {"name": "Claude Opus 5.5",   "lab": "anthropic", "arena": "Claude Opus 5.5",   "epoch": "Claude Opus 5.5",   "openrouter": "anthropic/claude-opus-5.5"},
+  {"name": "Claude Fable 5.1",  "lab": "anthropic", "arena": "Claude Fable 5.1",  "epoch": "Claude Fable 5.1",  "openrouter": "anthropic/claude-fable-5.1"},
+  {"name": "Claude Sonnet 5.5", "lab": "anthropic", "arena": "Claude Sonnet 5.5", "epoch": "Claude Sonnet 5.5", "openrouter": "anthropic/claude-sonnet-5.5"},
+  {"name": "GPT-6.1 Sol",       "lab": "openai",    "arena": "GPT-6.1 Sol",       "epoch": "GPT-6.1 Sol",       "openrouter": "openai/gpt-6.1-sol"},
+  {"name": "GPT-6 Astra",       "lab": "openai",    "arena": "GPT-6 Astra",       "epoch": "GPT-6 Astra",       "openrouter": "openai/gpt-6-astra"},
+  {"name": "Muse Wonder",       "lab": "meta",      "arena": "Muse Wonder",       "epoch": "Muse Wonder",       "openrouter": "meta/muse-wonder"},
+  {"name": "Grok 4.7",          "lab": "xai",       "arena": "Grok 4.7",          "epoch": "Grok 4.7",          "openrouter": "x-ai/grok-4.7"},
+  {"name": "Kimi K3",           "lab": "moonshot",  "arena": "Kimi K3",           "epoch": "Kimi K3",           "openrouter": "moonshotai/kimi-k3"},
+  {"name": "Gemma 4 31B (open)", "lab": "google",   "arena": "Gemma 4 31B",       "epoch": null,                "openrouter": "google/gemma-4-31b-it"}
+]
