@@ -12,27 +12,38 @@ Each day a GitHub Action pulls human-preference rankings (LMArena), a benchmark-
 ## Today
 
 <!-- pulse:start -->
-_Snapshot 2026-10-28 · LMArena published 2026-10-22_
+_Snapshot 2026-10-29 · LMArena published 2026-10-28_
 
 | Model | LMArena text | LMArena WebDev | Epoch ECI | Providers | Uptime 24h | Cheapest output $/M | Precision |
 |---|---|---|---|---|---|---|---|
-| Gemini 4 Argon | #1 (1526) | #10 | 166.45 | 6 | 99.6% | $5.00 | — |
-| Claude Opus 5.5 | #2 (1516) | #1 | 168.83 | 11 | 100% | $20.00 | — |
-| Claude Fable 5.1 | #3 (1513) | #5 | 166.49 | 4 | 100% | $50.00 | — |
-| Claude Sonnet 5.5 | #28 (1473) | #3 | 166.18 | 8 | 100% | $10.00 | — |
-| GPT-6.1 Sol | #66 (1444) | #4 | 168.37 | 8 | 92.1% | $5.00 | — |
-| GPT-6 Astra | #73 (1442) | #2 | 168.81 | 7 | 98.3% | $25.00 | — |
-| Muse Wonder | #7 (1501) | #19 | 161.85 | 1 | 99.7% | $20.00 | — |
+| Gemini 4 Argon | #2 (1529) | #11 | 166.45 | 6 | 98.7% | $5.00 | — |
+| Claude Opus 5.5 | #3 (1516) | #1 | 168.83 | 11 | 100% | $20.00 | — |
+| Claude Fable 5.1 | #4 (1514) | #6 | 166.49 | 4 | 100% | $50.00 | — |
+| Claude Sonnet 5.5 | #30 (1473) | #3 | 166.18 | 10 | 100% | $10.00 | — |
+| GPT-6.1 Sol | #62 (1446) | #5 | 168.37 | 8 | 97.8% | $5.00 | — |
+| GPT-6 Astra | #75 (1441) | #2 | 168.81 | 7 | 100% | $25.00 | — |
+| Muse Wonder | #8 (1499) | #20 | 161.85 | 1 | 100% | $20.00 | — |
 | Grok 4.7 | #158 (1398) | #21 | 154.37 | 5 | 100% | $6.00 | — |
-| Kimi K3 | #25 (1475) | #17 | 157.86 | 30 | 98.3% | $8.25 | fp4/fp8/mxfp4 |
-| Gemma 4 31B (open) | #67 (1443) | #113 | — | 16 | 98.3% | $0.32 | bf16/fp4/fp8 |
+| Kimi K3 | #25 (1476) | #18 | 157.86 | 30 | 98.2% | $8.25 | fp4/fp8/mxfp4 |
+| Gemma 4 31B (open) | #68 (1443) | #114 | — | 16 | 98.1% | $0.32 | bf16/fp4/fp8 |
 
 **Changes since the last snapshot**
 
-- Gemini 4 Argon: WebDev rank 11 → 10
-- Muse Wonder: WebDev rank 18 → 19
-- Grok 4.7: WebDev rank 19 → 21
-- Gemma 4 31B (open): WebDev rank 112 → 113
+- Gemini 4 Argon: LMArena text rank 1 → 2
+- Gemini 4 Argon: WebDev rank 10 → 11
+- Claude Opus 5.5: LMArena text rank 2 → 3
+- Claude Fable 5.1: LMArena text rank 3 → 4
+- Claude Fable 5.1: WebDev rank 5 → 6
+- Claude Sonnet 5.5: LMArena text rank 28 → 30
+- Claude Sonnet 5.5: providers 8 → 10
+- GPT-6.1 Sol: LMArena text rank 66 → 62
+- GPT-6.1 Sol: WebDev rank 4 → 5
+- GPT-6 Astra: LMArena text rank 73 → 75
+- Muse Wonder: LMArena text rank 7 → 8
+- Muse Wonder: WebDev rank 19 → 20
+- Kimi K3: WebDev rank 17 → 18
+- Gemma 4 31B (open): LMArena text rank 67 → 68
+- Gemma 4 31B (open): WebDev rank 113 → 114
 <!-- pulse:end -->
 
 ## How to read it
