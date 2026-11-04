@@ -12,26 +12,26 @@ Each day a GitHub Action pulls human-preference rankings (LMArena), a benchmark-
 ## Today
 
 <!-- pulse:start -->
-_Snapshot 2026-11-03 · LMArena published 2026-10-28_
+_Snapshot 2026-11-04 · LMArena published 2026-10-28_
 
 | Model | LMArena text | LMArena WebDev | Epoch ECI | Providers | Uptime 24h | Cheapest output $/M | Precision |
 |---|---|---|---|---|---|---|---|
-| Gemini 4 Argon | #2 (1529) | #11 | 166.07 | 6 | 96% | $5.00 | — |
+| Gemini 4 Argon | #2 (1529) | #11 | 166.07 | 6 | 97.4% | $5.00 | — |
 | Claude Opus 5.5 | #3 (1516) | #1 | 168.4 | 11 | 100% | $20.00 | — |
-| Claude Fable 5.1 | #4 (1514) | #6 | 166.36 | 4 | 99.8% | $50.00 | — |
+| Claude Fable 5.1 | #4 (1514) | #6 | 166.36 | 4 | 100% | $50.00 | — |
 | Claude Sonnet 5.5 | #30 (1473) | #3 | 166.74 | 10 | 100% | $10.00 | — |
-| GPT-6.1 Sol | #62 (1446) | #5 | 167.82 | 9 | 99.8% | $5.00 | — |
-| GPT-6 Astra | #75 (1441) | #2 | 169.06 | 8 | 97.6% | $25.00 | — |
-| Muse Wonder | #8 (1499) | #20 | 161.71 | 1 | 99.7% | $20.00 | — |
-| Grok 4.7 | #158 (1398) | #21 | 154.55 | 6 | 91.4% | $6.00 | — |
-| Kimi K3 | #25 (1476) | #18 | 158.33 | 30 | 94.5% | $9.34 | fp4/fp8/mxfp4 |
-| Gemma 4 31B (open) | #68 (1443) | #114 | — | 18 | 96.7% | $0.28 | bf16/fp4/fp8 |
+| GPT-6.1 Sol | #62 (1446) | #5 | 167.82 | 9 | 93.3% | $5.00 | — |
+| GPT-6 Astra | #75 (1441) | #2 | 169.06 | 8 | 98.7% | $25.00 | — |
+| Muse Wonder | #8 (1499) | #20 | 161.71 | 1 | 98.2% | $20.00 | — |
+| Grok 4.7 | #158 (1398) | #21 | 154.55 | 6 | 92.6% | $6.00 | — |
+| Kimi K3 | #25 (1476) | #18 | 158.33 | 31 | 94.9% | $9.50 | fp4/fp8/mxfp4 |
+| Gemma 4 31B (open) | #68 (1443) | #114 | — | 18 | 97.4% | $0.10 | bf16/fp4/fp8 |
 
 **Changes since the last snapshot**
 
-- Kimi K3: providers 29 → 30
-- Kimi K3: cheapest output $/M 7.15 → 9.34
-- Gemma 4 31B (open): cheapest output $/M 0.32 → 0.28
+- Kimi K3: providers 30 → 31
+- Kimi K3: cheapest output $/M 9.34 → 9.5
+- Gemma 4 31B (open): cheapest output $/M 0.28 → 0.1
 <!-- pulse:end -->
 
 ## How to read it
