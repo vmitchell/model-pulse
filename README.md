@@ -12,32 +12,24 @@ Each day a GitHub Action pulls human-preference rankings (LMArena), a benchmark-
 ## Today
 
 <!-- pulse:start -->
-_Snapshot 2026-11-05 · LMArena published 2026-10-28_
+_Snapshot 2026-11-06 · LMArena published 2026-10-28_
 
 | Model | LMArena text | LMArena WebDev | Epoch ECI | Providers | Uptime 24h | Cheapest output $/M | Precision |
 |---|---|---|---|---|---|---|---|
-| Gemini 4 Argon | #2 (1529) | #11 | 166.45 | 6 | 94.3% | $5.00 | — |
+| Gemini 4 Argon | #2 (1529) | #11 | 166.45 | 6 | 93.4% | $5.00 | — |
 | Claude Opus 5.5 | #3 (1516) | #1 | 168.36 | 11 | 100% | $20.00 | — |
 | Claude Fable 5.1 | #4 (1514) | #6 | 166.9 | 4 | 100% | $50.00 | — |
 | Claude Sonnet 5.5 | #30 (1473) | #3 | 166.24 | 10 | 100% | $10.00 | — |
-| GPT-6.1 Sol | #62 (1446) | #5 | 168.94 | 9 | 96.4% | $5.00 | — |
-| GPT-6 Astra | #75 (1441) | #2 | 169.07 | 8 | 97% | $25.00 | — |
+| GPT-6.1 Sol | #62 (1446) | #5 | 168.94 | 9 | 99.5% | $5.00 | — |
+| GPT-6 Astra | #75 (1441) | #2 | 169.07 | 8 | 97.2% | $25.00 | — |
 | Muse Wonder | #8 (1499) | #20 | 162.02 | 1 | 100% | $20.00 | — |
-| Grok 4.7 | #158 (1398) | #21 | 156.07 | 6 | 99.8% | $6.00 | — |
-| Kimi K3 | #25 (1476) | #18 | 158.51 | 31 | 95.9% | $9.50 | fp4/fp8/mxfp4 |
-| Gemma 4 31B (open) | #68 (1443) | #114 | — | 18 | 97.5% | $0.10 | bf16/fp4/fp8 |
+| Grok 4.7 | #158 (1398) | #21 | 156.07 | 6 | 98.8% | $6.00 | — |
+| Kimi K3 | #25 (1476) | #18 | 158.51 | 31 | 95.2% | $9.50 | fp4/fp8/mxfp4 |
+| Gemma 4 31B (open) | #68 (1443) | #114 | — | 19 | 97.3% | $0.10 | bf16/fp4/fp8 |
 
 **Changes since the last snapshot**
 
-- Gemini 4 Argon: Epoch ECI 166.07 → 166.45
-- Claude Opus 5.5: Epoch ECI 168.4 → 168.36
-- Claude Fable 5.1: Epoch ECI 166.36 → 166.9
-- Claude Sonnet 5.5: Epoch ECI 166.74 → 166.24
-- GPT-6.1 Sol: Epoch ECI 167.82 → 168.94
-- GPT-6 Astra: Epoch ECI 169.06 → 169.07
-- Muse Wonder: Epoch ECI 161.71 → 162.02
-- Grok 4.7: Epoch ECI 154.55 → 156.07
-- Kimi K3: Epoch ECI 158.33 → 158.51
+- Gemma 4 31B (open): providers 18 → 19
 <!-- pulse:end -->
 
 ## How to read it
