@@ -12,38 +12,24 @@ Each day a GitHub Action pulls human-preference rankings (LMArena), a benchmark-
 ## Today
 
 <!-- pulse:start -->
-_Snapshot 2026-11-07 · LMArena published 2026-11-06_
+_Snapshot 2026-11-08 · LMArena published 2026-11-06_
 
 | Model | LMArena text | LMArena WebDev | Epoch ECI | Providers | Uptime 24h | Cheapest output $/M | Precision |
 |---|---|---|---|---|---|---|---|
-| Gemini 4 Argon | #2 (1530) | #11 | 166.45 | 6 | 97.3% | $5.00 | — |
+| Gemini 4 Argon | #2 (1530) | #11 | 166.45 | 6 | 91.2% | $5.00 | — |
 | Claude Opus 5.5 | #4 (1512) | #1 | 168.36 | 11 | 100% | $20.00 | — |
 | Claude Fable 5.1 | #3 (1513) | #5 | 166.9 | 4 | 100% | $50.00 | — |
 | Claude Sonnet 5.5 | #34 (1469) | #2 | 166.24 | 10 | 100% | $10.00 | — |
-| GPT-6.1 Sol | #60 (1447) | #6 | 168.94 | 9 | 99.3% | $5.00 | — |
-| GPT-6 Astra | #75 (1441) | #3 | 169.07 | 8 | 92.6% | $25.00 | — |
+| GPT-6.1 Sol | #60 (1447) | #6 | 168.94 | 9 | 99.5% | $5.00 | — |
+| GPT-6 Astra | #75 (1441) | #3 | 169.07 | 8 | 99.1% | $25.00 | — |
 | Muse Wonder | #6 (1505) | #20 | 162.02 | 1 | 100% | $20.00 | — |
-| Grok 4.7 | #158 (1398) | #22 | 156.07 | 6 | 97.1% | $6.00 | — |
-| Kimi K3 | #26 (1475) | #18 | 158.51 | 30 | 98.9% | $9.34 | fp4/fp8/mxfp4 |
-| Gemma 4 31B (open) | #74 (1443) | #115 | — | 19 | 98.8% | $0.10 | bf16/fp4/fp8 |
+| Grok 4.7 | #158 (1398) | #22 | 156.07 | 6 | 98.5% | $6.00 | — |
+| Kimi K3 | #26 (1475) | #18 | 158.51 | 30 | 99.4% | $9.50 | fp4/fp8/mxfp4 |
+| Gemma 4 31B (open) | #74 (1443) | #115 | — | 19 | 98.4% | $0.10 | bf16/fp4/fp8 |
 
 **Changes since the last snapshot**
 
-- Claude Opus 5.5: LMArena text rank 3 → 4
-- Claude Fable 5.1: LMArena text rank 4 → 3
-- Claude Fable 5.1: WebDev rank 6 → 5
-- Claude Sonnet 5.5: LMArena text rank 30 → 34
-- Claude Sonnet 5.5: WebDev rank 3 → 2
-- GPT-6.1 Sol: LMArena text rank 62 → 60
-- GPT-6.1 Sol: WebDev rank 5 → 6
-- GPT-6 Astra: WebDev rank 2 → 3
-- Muse Wonder: LMArena text rank 8 → 6
-- Grok 4.7: WebDev rank 21 → 22
-- Kimi K3: LMArena text rank 25 → 26
-- Kimi K3: providers 31 → 30
-- Kimi K3: cheapest output $/M 9.5 → 9.34
-- Gemma 4 31B (open): LMArena text rank 68 → 74
-- Gemma 4 31B (open): WebDev rank 114 → 115
+- Kimi K3: cheapest output $/M 9.34 → 9.5
 <!-- pulse:end -->
 
 ## How to read it
