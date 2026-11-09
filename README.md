@@ -12,24 +12,31 @@ Each day a GitHub Action pulls human-preference rankings (LMArena), a benchmark-
 ## Today
 
 <!-- pulse:start -->
-_Snapshot 2026-11-08 · LMArena published 2026-11-06_
+_Snapshot 2026-11-09 · LMArena published 2026-11-08_
 
 | Model | LMArena text | LMArena WebDev | Epoch ECI | Providers | Uptime 24h | Cheapest output $/M | Precision |
 |---|---|---|---|---|---|---|---|
-| Gemini 4 Argon | #2 (1530) | #11 | 166.45 | 6 | 91.2% | $5.00 | — |
-| Claude Opus 5.5 | #4 (1512) | #1 | 168.36 | 11 | 100% | $20.00 | — |
+| Gemini 4 Argon | #2 (1530) | #11 | 166.45 | 6 | 94.7% | $5.00 | — |
+| Claude Opus 5.5 | #4 (1513) | #1 | 168.36 | 11 | 99.9% | $20.00 | — |
 | Claude Fable 5.1 | #3 (1513) | #5 | 166.9 | 4 | 100% | $50.00 | — |
-| Claude Sonnet 5.5 | #34 (1469) | #2 | 166.24 | 10 | 100% | $10.00 | — |
-| GPT-6.1 Sol | #60 (1447) | #6 | 168.94 | 9 | 99.5% | $5.00 | — |
-| GPT-6 Astra | #75 (1441) | #3 | 169.07 | 8 | 99.1% | $25.00 | — |
-| Muse Wonder | #6 (1505) | #20 | 162.02 | 1 | 100% | $20.00 | — |
-| Grok 4.7 | #158 (1398) | #22 | 156.07 | 6 | 98.5% | $6.00 | — |
-| Kimi K3 | #26 (1475) | #18 | 158.51 | 30 | 99.4% | $9.50 | fp4/fp8/mxfp4 |
-| Gemma 4 31B (open) | #74 (1443) | #115 | — | 19 | 98.4% | $0.10 | bf16/fp4/fp8 |
+| Claude Sonnet 5.5 | #34 (1468) | #2 | 166.24 | 10 | 100% | $10.00 | — |
+| GPT-6.1 Sol | #61 (1446) | #6 | 168.94 | 9 | 99.5% | $5.00 | — |
+| GPT-6 Astra | #76 (1440) | #4 | 169.07 | 8 | 99.4% | $25.00 | — |
+| Muse Wonder | #6 (1504) | #20 | 162.02 | 1 | 100% | $20.00 | — |
+| Grok 4.7 | #159 (1398) | #22 | 156.07 | 6 | 98.5% | $6.00 | — |
+| Kimi K3 | #27 (1475) | #17 | 158.51 | 30 | 98.8% | $9.50 | fp4/fp8/mxfp4 |
+| Gemma 4 31B (open) | #72 (1443) | #114 | — | 19 | 98.8% | $0.10 | bf16/fp4/fp8 |
 
 **Changes since the last snapshot**
 
-- Kimi K3: cheapest output $/M 9.34 → 9.5
+- GPT-6.1 Sol: LMArena text rank 60 → 61
+- GPT-6 Astra: LMArena text rank 75 → 76
+- GPT-6 Astra: WebDev rank 3 → 4
+- Grok 4.7: LMArena text rank 158 → 159
+- Kimi K3: LMArena text rank 26 → 27
+- Kimi K3: WebDev rank 18 → 17
+- Gemma 4 31B (open): LMArena text rank 74 → 72
+- Gemma 4 31B (open): WebDev rank 115 → 114
 <!-- pulse:end -->
 
 ## How to read it
