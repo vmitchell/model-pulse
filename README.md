@@ -12,36 +12,34 @@ Each day a GitHub Action pulls human-preference rankings (LMArena), a benchmark-
 ## Today
 
 <!-- pulse:start -->
-_Snapshot 2026-11-11 · LMArena published 2026-11-09_
+_Snapshot 2026-11-12 · LMArena published 2026-11-09_
 
 | Model | LMArena text | LMArena WebDev | Epoch ECI | Providers | Uptime 24h | Cheapest output $/M | Precision |
 |---|---|---|---|---|---|---|---|
-| Gemini 4 Argon | #2 (1530) | #12 | 166.53 | 6 | 95.9% | $5.00 | — |
-| Claude Opus 5.5 | #3 (1513) | #2 | 168.67 | 11 | 100% | $20.00 | — |
-| Claude Fable 5.1 | #4 (1512) | #7 | 167.04 | 4 | 99.7% | $50.00 | — |
-| Claude Sonnet 5.5 | #34 (1469) | #3 | 166.32 | 10 | 100% | $10.00 | — |
-| GPT-6.1 Sol | #62 (1446) | #6 | 168.87 | 9 | 93.2% | $5.00 | — |
-| GPT-6 Astra | #77 (1440) | #5 | 169.16 | 8 | 99.4% | $25.00 | — |
-| Muse Wonder | #6 (1503) | #21 | 162.01 | 2 | 85.2% | $20.00 | — |
-| Grok 4.7 | #160 (1398) | #23 | 156.05 | 6 | 98.7% | $6.00 | — |
-| Kimi K3 | #27 (1474) | #18 | 158.53 | 27 | 99% | $9.50 | fp4/fp8/mxfp4 |
-| Gemma 4 31B (open) | #73 (1443) | #117 | — | 18 | 97.3% | $0.10 | bf16/fp4/fp8 |
+| Gemini 4 Argon | #2 (1530) | #12 | 166.48 | 6 | 93.5% | $5.00 | — |
+| Claude Opus 5.5 | #3 (1513) | #2 | 168.54 | 11 | 99.9% | $20.00 | — |
+| Claude Fable 5.1 | #4 (1512) | #7 | 166.99 | 5 | 100% | $50.00 | — |
+| Claude Sonnet 5.5 | #34 (1469) | #3 | 166.56 | 10 | 100% | $10.00 | — |
+| GPT-6.1 Sol | #62 (1446) | #6 | 168.48 | 9 | 95.6% | $5.00 | — |
+| GPT-6 Astra | #77 (1440) | #5 | 169 | 8 | 99.5% | $25.00 | — |
+| Muse Wonder | #6 (1503) | #21 | 161.68 | 2 | 99.3% | $20.00 | — |
+| Grok 4.7 | #160 (1398) | #23 | 156.18 | 6 | 99.9% | $6.00 | — |
+| Kimi K3 | #27 (1474) | #18 | 158.58 | 26 | 98.6% | $9.50 | fp4/fp8/mxfp4 |
+| Gemma 4 31B (open) | #73 (1443) | #117 | — | 18 | 98.1% | $0.10 | bf16/fp4/fp8 |
 
 **Changes since the last snapshot**
 
-- Gemini 4 Argon: WebDev rank 11 → 12
-- Claude Opus 5.5: WebDev rank 1 → 2
-- Claude Fable 5.1: WebDev rank 5 → 7
-- Claude Sonnet 5.5: WebDev rank 2 → 3
-- GPT-6 Astra: WebDev rank 4 → 5
-- Muse Wonder: WebDev rank 20 → 21
-- Muse Wonder: providers 1 → 2
-- Grok 4.7: WebDev rank 22 → 23
-- Kimi K3: WebDev rank 17 → 18
-- Kimi K3: providers 28 → 27
-- Kimi K3: cheapest output $/M 9.34 → 9.5
-- Gemma 4 31B (open): WebDev rank 115 → 117
-- Gemma 4 31B (open): providers 19 → 18
+- Gemini 4 Argon: Epoch ECI 166.53 → 166.48
+- Claude Opus 5.5: Epoch ECI 168.67 → 168.54
+- Claude Fable 5.1: Epoch ECI 167.04 → 166.99
+- Claude Fable 5.1: providers 4 → 5
+- Claude Sonnet 5.5: Epoch ECI 166.32 → 166.56
+- GPT-6.1 Sol: Epoch ECI 168.87 → 168.48
+- GPT-6 Astra: Epoch ECI 169.16 → 169.0
+- Muse Wonder: Epoch ECI 162.01 → 161.68
+- Grok 4.7: Epoch ECI 156.05 → 156.18
+- Kimi K3: Epoch ECI 158.53 → 158.58
+- Kimi K3: providers 27 → 26
 <!-- pulse:end -->
 
 ## How to read it
