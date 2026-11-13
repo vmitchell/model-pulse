@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 400" width="880" height="400" font-family="system-ui,-apple-system,Segoe UI,sans-serif" role="img" aria-labelledby="t d">
 <title id="t">Best LMArena text rating by lab, Nov 2025 to Nov 2026</title>
-<desc id="d">Google 1538 (Gemini 4 Carbon (High)); Anthropic 1513 (Claude Opus 5.5 (High)); OpenAI 1471 (GPT-5.5 (High)); Meta 1503 (Muse Wonder (Max))</desc>
+<desc id="d">Google 1538 (Gemini 4 Carbon (High)); Anthropic 1514 (Claude Opus 5.5 (High)); OpenAI 1471 (GPT-5.5 (High)); Meta 1503 (Muse Wonder (Max))</desc>
 <text x="52" y="26" font-size="17" font-weight="600" fill="#f0efec">Who leads the frontier?</text>
 <line x1="52" y1="382" x2="68" y2="382" stroke="#3987e5" stroke-width="2" stroke-linecap="round"/><text x="74" y="386" font-size="12" fill="#c3c2b7">Google</text>
 <line x1="126.4" y1="382" x2="142.4" y2="382" stroke="#d95926" stroke-width="2" stroke-linecap="round"/><text x="148.4" y="386" font-size="12" fill="#c3c2b7">Anthropic</text>
@@ -14,451 +14,451 @@
 <line x1="52" x2="712" y1="146.0" y2="146.0" stroke="#2c2c2a" stroke-width="1"/><text x="44" y="150.0" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">1450</text>
 <line x1="52" x2="712" y1="99.0" y2="99.0" stroke="#2c2c2a" stroke-width="1"/><text x="44" y="103.0" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">1500</text>
 <line x1="52" x2="712" y1="52.0" y2="52.0" stroke="#2c2c2a" stroke-width="1"/><text x="44" y="56.0" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">1550</text>
-<text x="147.8" y="352" font-size="11" fill="#898781" text-anchor="middle">Jan 2026</text>
-<text x="254.5" y="352" font-size="11" fill="#898781" text-anchor="middle">Mar</text>
-<text x="364.8" y="352" font-size="11" fill="#898781" text-anchor="middle">May</text>
-<text x="475.1" y="352" font-size="11" fill="#898781" text-anchor="middle">Jul</text>
-<text x="587.2" y="352" font-size="11" fill="#898781" text-anchor="middle">Sep</text>
-<text x="697.5" y="352" font-size="11" fill="#898781" text-anchor="middle">Nov</text>
-<polyline points="52.0,131.3 64.7,103.9 66.5,101.7 68.3,106.3 71.9,108.4 82.7,110.7 91.8,111.6 97.2,112.2 99.0,111.9 104.4,112.6 109.9,111.3 117.1,112.6 118.9,112.1 122.5,112.2 124.3,113.5 127.9,113.5 131.6,113.7 144.2,113.6 162.3,114.1 194.8,116.1 198.5,116.7 212.9,102.1 218.4,103.6 220.2,103.2 222.0,103.1 231.0,102.5 232.8,102.8 236.4,102.7 238.2,102.7 240.1,102.8 241.9,102.8 245.5,102.7 247.3,102.8 249.1,102.7 258.1,103.1 259.9,103.0 261.8,102.9 263.6,102.7 272.6,109.9 281.6,108.9 285.3,108.9 287.1,109.0 288.9,109.9 299.7,109.7 308.8,108.9 312.4,109.3 321.4,110.3 325.0,110.8 326.8,111.1 334.1,110.1 339.5,110.9 344.9,110.2 348.5,109.9 350.4,109.9 357.6,110.2 359.4,110.2 361.2,110.4 363.0,110.6 364.8,110.8 373.9,111.4 375.7,111.5 384.7,113.0 388.3,114.4 395.6,115.3 397.4,112.2 411.8,115.5 424.5,116.2 426.3,116.5 428.1,115.9 437.2,117.0 448.0,117.7 464.3,117.9 476.9,115.6 491.4,117.7 495.0,117.7 498.6,117.7 502.2,117.7 509.5,117.7 511.3,116.8 520.3,117.4 522.1,117.5 527.6,117.5 533.0,117.3 534.8,118.2 540.2,117.5 547.5,116.3 549.3,116.3 551.1,116.3 563.7,107.9 567.3,108.2 578.2,108.0 587.2,107.4 589.0,103.5 605.3,104.3 608.9,104.0 630.6,104.3 639.7,67.9 643.3,67.5 654.1,67.2 663.2,67.8 666.8,68.6 675.8,68.6 679.5,74.8 690.3,61.4 706.6,62.3 710.2,62.4 712.0,63.0" fill="none" stroke="#3987e5" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="52.0" cy="131.3" r="6" fill="transparent"><title>Google · 2025-11-09 · 1466 · gemini-2.5-pro</title></circle>
-<circle cx="64.7" cy="103.9" r="6" fill="transparent"><title>Google · 2025-11-16 · 1495 · gemini-3-pro</title></circle>
-<circle cx="66.5" cy="101.7" r="6" fill="transparent"><title>Google · 2025-11-17 · 1497 · gemini-3-pro</title></circle>
-<circle cx="68.3" cy="106.3" r="6" fill="transparent"><title>Google · 2025-11-18 · 1492 · gemini-3-pro</title></circle>
-<circle cx="71.9" cy="108.4" r="6" fill="transparent"><title>Google · 2025-11-20 · 1490 · gemini-3-pro</title></circle>
-<circle cx="82.7" cy="110.7" r="6" fill="transparent"><title>Google · 2025-11-26 · 1488 · gemini-3-pro</title></circle>
-<circle cx="91.8" cy="111.6" r="6" fill="transparent"><title>Google · 2025-12-01 · 1487 · gemini-3-pro</title></circle>
-<circle cx="97.2" cy="112.2" r="6" fill="transparent"><title>Google · 2025-12-04 · 1486 · gemini-3-pro</title></circle>
-<circle cx="99.0" cy="111.9" r="6" fill="transparent"><title>Google · 2025-12-05 · 1486 · gemini-3-pro</title></circle>
-<circle cx="104.4" cy="112.6" r="6" fill="transparent"><title>Google · 2025-12-08 · 1486 · gemini-3-pro</title></circle>
-<circle cx="109.9" cy="111.3" r="6" fill="transparent"><title>Google · 2025-12-11 · 1487 · gemini-3-pro</title></circle>
-<circle cx="117.1" cy="112.6" r="6" fill="transparent"><title>Google · 2025-12-15 · 1486 · gemini-3-pro</title></circle>
-<circle cx="118.9" cy="112.1" r="6" fill="transparent"><title>Google · 2025-12-16 · 1486 · gemini-3-pro</title></circle>
-<circle cx="122.5" cy="112.2" r="6" fill="transparent"><title>Google · 2025-12-18 · 1486 · gemini-3-pro</title></circle>
-<circle cx="124.3" cy="113.5" r="6" fill="transparent"><title>Google · 2025-12-19 · 1485 · gemini-3-pro</title></circle>
-<circle cx="127.9" cy="113.5" r="6" fill="transparent"><title>Google · 2025-12-21 · 1485 · gemini-3-pro</title></circle>
-<circle cx="131.6" cy="113.7" r="6" fill="transparent"><title>Google · 2025-12-23 · 1484 · gemini-3-pro</title></circle>
-<circle cx="144.2" cy="113.6" r="6" fill="transparent"><title>Google · 2025-12-30 · 1484 · gemini-3-pro</title></circle>
-<circle cx="162.3" cy="114.1" r="6" fill="transparent"><title>Google · 2026-01-09 · 1484 · gemini-3-pro</title></circle>
-<circle cx="194.8" cy="116.1" r="6" fill="transparent"><title>Google · 2026-01-27 · 1482 · gemini-3-pro</title></circle>
-<circle cx="198.5" cy="116.7" r="6" fill="transparent"><title>Google · 2026-01-29 · 1481 · gemini-3-pro</title></circle>
-<circle cx="212.9" cy="102.1" r="6" fill="transparent"><title>Google · 2026-02-06 · 1497 · gemini-3.1-pro-preview</title></circle>
-<circle cx="218.4" cy="103.6" r="6" fill="transparent"><title>Google · 2026-02-09 · 1495 · gemini-3.1-pro-preview</title></circle>
-<circle cx="220.2" cy="103.2" r="6" fill="transparent"><title>Google · 2026-02-10 · 1496 · gemini-3.1-pro-preview</title></circle>
-<circle cx="222.0" cy="103.1" r="6" fill="transparent"><title>Google · 2026-02-11 · 1496 · gemini-3.1-pro-preview</title></circle>
-<circle cx="231.0" cy="102.5" r="6" fill="transparent"><title>Google · 2026-02-16 · 1496 · gemini-3.1-pro-preview</title></circle>
-<circle cx="232.8" cy="102.8" r="6" fill="transparent"><title>Google · 2026-02-17 · 1496 · gemini-3.1-pro-preview</title></circle>
-<circle cx="236.4" cy="102.7" r="6" fill="transparent"><title>Google · 2026-02-19 · 1496 · gemini-3.1-pro-preview</title></circle>
-<circle cx="238.2" cy="102.7" r="6" fill="transparent"><title>Google · 2026-02-20 · 1496 · gemini-3.1-pro-preview</title></circle>
-<circle cx="240.1" cy="102.8" r="6" fill="transparent"><title>Google · 2026-02-21 · 1496 · gemini-3.1-pro-preview</title></circle>
-<circle cx="241.9" cy="102.8" r="6" fill="transparent"><title>Google · 2026-02-22 · 1496 · gemini-3.1-pro-preview</title></circle>
-<circle cx="245.5" cy="102.7" r="6" fill="transparent"><title>Google · 2026-02-24 · 1496 · gemini-3.1-pro-preview</title></circle>
-<circle cx="247.3" cy="102.8" r="6" fill="transparent"><title>Google · 2026-02-25 · 1496 · gemini-3.1-pro-preview</title></circle>
-<circle cx="249.1" cy="102.7" r="6" fill="transparent"><title>Google · 2026-02-26 · 1496 · gemini-3.1-pro-preview</title></circle>
-<circle cx="258.1" cy="103.1" r="6" fill="transparent"><title>Google · 2026-03-03 · 1496 · gemini-3.1-pro-preview</title></circle>
-<circle cx="259.9" cy="103.0" r="6" fill="transparent"><title>Google · 2026-03-04 · 1496 · gemini-3.1-pro-preview</title></circle>
-<circle cx="261.8" cy="102.9" r="6" fill="transparent"><title>Google · 2026-03-05 · 1496 · gemini-3.1-pro-preview</title></circle>
-<circle cx="263.6" cy="102.7" r="6" fill="transparent"><title>Google · 2026-03-06 · 1496 · gemini-3.1-pro-preview</title></circle>
-<circle cx="272.6" cy="109.9" r="6" fill="transparent"><title>Google · 2026-03-11 · 1488 · gemini-3.1-pro-preview</title></circle>
-<circle cx="281.6" cy="108.9" r="6" fill="transparent"><title>Google · 2026-03-16 · 1489 · gemini-3.1-pro-preview</title></circle>
-<circle cx="285.3" cy="108.9" r="6" fill="transparent"><title>Google · 2026-03-18 · 1489 · gemini-3.1-pro-preview</title></circle>
-<circle cx="287.1" cy="109.0" r="6" fill="transparent"><title>Google · 2026-03-19 · 1489 · gemini-3.1-pro-preview</title></circle>
-<circle cx="288.9" cy="109.9" r="6" fill="transparent"><title>Google · 2026-03-20 · 1488 · gemini-3.1-pro-preview</title></circle>
-<circle cx="299.7" cy="109.7" r="6" fill="transparent"><title>Google · 2026-03-26 · 1489 · gemini-3.1-pro-preview</title></circle>
-<circle cx="308.8" cy="108.9" r="6" fill="transparent"><title>Google · 2026-03-31 · 1489 · gemini-3.1-pro-preview</title></circle>
-<circle cx="312.4" cy="109.3" r="6" fill="transparent"><title>Google · 2026-04-02 · 1489 · gemini-3.1-pro-preview</title></circle>
-<circle cx="321.4" cy="110.3" r="6" fill="transparent"><title>Google · 2026-04-07 · 1488 · gemini-3.1-pro-preview</title></circle>
-<circle cx="325.0" cy="110.8" r="6" fill="transparent"><title>Google · 2026-04-09 · 1487 · gemini-3.1-pro-preview</title></circle>
-<circle cx="326.8" cy="111.1" r="6" fill="transparent"><title>Google · 2026-04-10 · 1487 · gemini-3.1-pro-preview</title></circle>
-<circle cx="334.1" cy="110.1" r="6" fill="transparent"><title>Google · 2026-04-14 · 1488 · gemini-3.1-pro-preview</title></circle>
-<circle cx="339.5" cy="110.9" r="6" fill="transparent"><title>Google · 2026-04-17 · 1487 · gemini-3.1-pro-preview</title></circle>
-<circle cx="344.9" cy="110.2" r="6" fill="transparent"><title>Google · 2026-04-20 · 1488 · gemini-3.1-pro-preview</title></circle>
-<circle cx="348.5" cy="109.9" r="6" fill="transparent"><title>Google · 2026-04-22 · 1488 · gemini-3.1-pro-preview</title></circle>
-<circle cx="350.4" cy="109.9" r="6" fill="transparent"><title>Google · 2026-04-23 · 1488 · gemini-3.1-pro-preview</title></circle>
-<circle cx="357.6" cy="110.2" r="6" fill="transparent"><title>Google · 2026-04-27 · 1488 · gemini-3.1-pro-preview</title></circle>
-<circle cx="359.4" cy="110.2" r="6" fill="transparent"><title>Google · 2026-04-28 · 1488 · gemini-3.1-pro-preview</title></circle>
-<circle cx="361.2" cy="110.4" r="6" fill="transparent"><title>Google · 2026-04-29 · 1488 · gemini-3.1-pro-preview</title></circle>
-<circle cx="363.0" cy="110.6" r="6" fill="transparent"><title>Google · 2026-04-30 · 1488 · gemini-3.1-pro-preview</title></circle>
-<circle cx="364.8" cy="110.8" r="6" fill="transparent"><title>Google · 2026-05-01 · 1487 · gemini-3.1-pro-preview</title></circle>
-<circle cx="373.9" cy="111.4" r="6" fill="transparent"><title>Google · 2026-05-06 · 1487 · gemini-3.1-pro-preview</title></circle>
-<circle cx="375.7" cy="111.5" r="6" fill="transparent"><title>Google · 2026-05-07 · 1487 · gemini-3.1-pro-preview</title></circle>
-<circle cx="384.7" cy="113.0" r="6" fill="transparent"><title>Google · 2026-05-12 · 1485 · gemini-3.1-pro-preview</title></circle>
-<circle cx="388.3" cy="114.4" r="6" fill="transparent"><title>Google · 2026-05-14 · 1484 · gemini-3.1-pro-preview</title></circle>
-<circle cx="395.6" cy="115.3" r="6" fill="transparent"><title>Google · 2026-05-18 · 1483 · gemini-3.1-pro-preview</title></circle>
-<circle cx="397.4" cy="112.2" r="6" fill="transparent"><title>Google · 2026-05-19 · 1486 · gemini-3.5-flash</title></circle>
-<circle cx="411.8" cy="115.5" r="6" fill="transparent"><title>Google · 2026-05-27 · 1482 · gemini-3.5-flash</title></circle>
-<circle cx="424.5" cy="116.2" r="6" fill="transparent"><title>Google · 2026-06-03 · 1482 · gemini-3.1-pro-preview</title></circle>
-<circle cx="426.3" cy="116.5" r="6" fill="transparent"><title>Google · 2026-06-04 · 1481 · gemini-3.1-pro-preview</title></circle>
-<circle cx="428.1" cy="115.9" r="6" fill="transparent"><title>Google · 2026-06-05 · 1482 · gemini-3.1-pro-preview</title></circle>
-<circle cx="437.2" cy="117.0" r="6" fill="transparent"><title>Google · 2026-06-10 · 1481 · gemini-3.1-pro-preview</title></circle>
-<circle cx="448.0" cy="117.7" r="6" fill="transparent"><title>Google · 2026-06-16 · 1480 · gemini-3.1-pro-preview</title></circle>
-<circle cx="464.3" cy="117.9" r="6" fill="transparent"><title>Google · 2026-06-25 · 1480 · gemini-3.5-flash</title></circle>
-<circle cx="476.9" cy="115.6" r="6" fill="transparent"><title>Google · 2026-07-02 · 1482 · gemini-3.5-flash</title></circle>
-<circle cx="491.4" cy="117.7" r="6" fill="transparent"><title>Google · 2026-07-10 · 1480 · gemini-3.5-flash-high</title></circle>
-<circle cx="495.0" cy="117.7" r="6" fill="transparent"><title>Google · 2026-07-12 · 1480 · gemini-3.5-flash-high</title></circle>
-<circle cx="498.6" cy="117.7" r="6" fill="transparent"><title>Google · 2026-07-14 · 1480 · gemini-3.5-flash-high</title></circle>
-<circle cx="502.2" cy="117.7" r="6" fill="transparent"><title>Google · 2026-07-16 · 1480 · gemini-3.5-flash-high</title></circle>
-<circle cx="509.5" cy="117.7" r="6" fill="transparent"><title>Google · 2026-07-20 · 1480 · gemini-3.5-flash-high</title></circle>
-<circle cx="511.3" cy="116.8" r="6" fill="transparent"><title>Google · 2026-07-21 · 1481 · gemini-3.6-flash</title></circle>
-<circle cx="520.3" cy="117.4" r="6" fill="transparent"><title>Google · 2026-07-26 · 1480 · gemini-3.5-flash-high</title></circle>
-<circle cx="522.1" cy="117.5" r="6" fill="transparent"><title>Google · 2026-07-27 · 1480 · gemini-3.5-flash-high</title></circle>
-<circle cx="527.6" cy="117.5" r="6" fill="transparent"><title>Google · 2026-07-30 · 1480 · gemini-3.5-flash-high</title></circle>
-<circle cx="533.0" cy="117.3" r="6" fill="transparent"><title>Google · 2026-08-02 · 1480 · gemini-3.5-flash-high</title></circle>
-<circle cx="534.8" cy="118.2" r="6" fill="transparent"><title>Google · 2026-08-03 · 1480 · gemini-3-pro</title></circle>
-<circle cx="540.2" cy="117.5" r="6" fill="transparent"><title>Google · 2026-08-06 · 1480 · gemini-3.5-flash-high</title></circle>
-<circle cx="547.5" cy="116.3" r="6" fill="transparent"><title>Google · 2026-08-10 · 1482 · gemini-3.5-flash-high</title></circle>
-<circle cx="549.3" cy="116.3" r="6" fill="transparent"><title>Google · 2026-08-11 · 1482 · gemini-3.5-flash-high</title></circle>
-<circle cx="551.1" cy="116.3" r="6" fill="transparent"><title>Google · 2026-08-12 · 1482 · gemini-3.5-flash-high</title></circle>
-<circle cx="563.7" cy="107.9" r="6" fill="transparent"><title>Google · 2026-08-19 · 1491 · gemini-3.7-flash-high</title></circle>
-<circle cx="567.3" cy="108.2" r="6" fill="transparent"><title>Google · 2026-08-21 · 1490 · gemini-3.7-flash-high</title></circle>
-<circle cx="578.2" cy="108.0" r="6" fill="transparent"><title>Google · 2026-08-27 · 1490 · gemini-3.7-flash-high</title></circle>
-<circle cx="587.2" cy="107.4" r="6" fill="transparent"><title>Google · 2026-09-01 · 1491 · gemini-3.7-flash-high</title></circle>
-<circle cx="589.0" cy="103.5" r="6" fill="transparent"><title>Google · 2026-09-02 · 1495 · gemini-3.8-flash-high</title></circle>
-<circle cx="605.3" cy="104.3" r="6" fill="transparent"><title>Google · 2026-09-11 · 1494 · gemini-3.8-flash-high</title></circle>
-<circle cx="608.9" cy="104.0" r="6" fill="transparent"><title>Google · 2026-09-13 · 1495 · gemini-3.8-flash-high</title></circle>
-<circle cx="630.6" cy="104.3" r="6" fill="transparent"><title>Google · 2026-09-25 · 1494 · gemini-3.8-flash-high</title></circle>
-<circle cx="639.7" cy="67.9" r="6" fill="transparent"><title>Google · 2026-09-30 · 1533 · gemini-4-argon-high</title></circle>
-<circle cx="643.3" cy="67.5" r="6" fill="transparent"><title>Google · 2026-10-02 · 1533 · gemini-4-argon-high</title></circle>
-<circle cx="654.1" cy="67.2" r="6" fill="transparent"><title>Google · 2026-10-08 · 1534 · gemini-4-argon-high</title></circle>
-<circle cx="663.2" cy="67.8" r="6" fill="transparent"><title>Google · 2026-10-13 · 1533 · gemini-4-argon-high</title></circle>
-<circle cx="666.8" cy="68.6" r="6" fill="transparent"><title>Google · 2026-10-15 · 1532 · Gemini 4 Argon (High)</title></circle>
-<circle cx="675.8" cy="68.6" r="6" fill="transparent"><title>Google · 2026-10-20 · 1532 · Gemini 4 Argon (High)</title></circle>
-<circle cx="679.5" cy="74.8" r="6" fill="transparent"><title>Google · 2026-10-22 · 1526 · Gemini 4 Argon (High)</title></circle>
-<circle cx="690.3" cy="61.4" r="6" fill="transparent"><title>Google · 2026-10-28 · 1540 · Gemini 4 Carbon (High)</title></circle>
-<circle cx="706.6" cy="62.3" r="6" fill="transparent"><title>Google · 2026-11-06 · 1539 · Gemini 4 Carbon (High)</title></circle>
-<circle cx="710.2" cy="62.4" r="6" fill="transparent"><title>Google · 2026-11-08 · 1539 · Gemini 4 Carbon (High)</title></circle>
-<circle cx="712.0" cy="63.0" r="6" fill="transparent"><title>Google · 2026-11-09 · 1538 · Gemini 4 Carbon (High)</title></circle>
-<circle cx="712.0" cy="63.0" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
-<polyline points="52.0,168.0 64.7,167.0 66.5,166.8 68.3,166.7 71.9,167.4 82.7,150.9 91.8,153.2 97.2,151.9 99.0,150.7 104.4,151.0 109.9,150.2 117.1,151.7 118.9,152.6 122.5,152.1 124.3,151.7 127.9,151.6 131.6,150.1 144.2,150.6 162.3,152.9 194.8,151.0 198.5,151.8 212.9,97.7 218.4,96.6 220.2,96.1 222.0,95.6 231.0,95.1 232.8,96.1 236.4,96.2 238.2,96.3 240.1,96.1 241.9,96.1 245.5,96.9 247.3,96.9 249.1,97.5 258.1,95.4 259.9,96.3 261.8,96.4 263.6,96.8 272.6,97.3 281.6,99.9 285.3,100.1 287.1,100.0 288.9,99.8 299.7,98.3 308.8,98.5 312.4,98.8 321.4,99.6 325.0,98.8 326.8,98.4 334.1,99.7 339.5,99.3 344.9,99.8 348.5,99.1 350.4,98.8 357.6,99.5 359.4,99.5 361.2,98.8 363.0,98.5 364.8,98.8 373.9,98.9 375.7,98.5 384.7,99.1 388.3,99.3 395.6,99.1 397.4,99.0 411.8,99.6 424.5,98.6 426.3,98.7 428.1,98.5 437.2,98.4 448.0,98.4 464.3,98.8 476.9,98.2 491.4,97.9 495.0,98.0 498.6,97.9 502.2,97.6 509.5,97.3 511.3,96.6 520.3,93.4 522.1,88.1 527.6,88.1 533.0,92.2 534.8,92.2 540.2,93.7 547.5,91.7 549.3,92.4 551.1,91.7 563.7,94.2 567.3,95.0 578.2,94.5 587.2,94.3 589.0,86.1 605.3,89.2 608.9,91.9 630.6,82.3 639.7,87.8 643.3,88.0 654.1,85.1 663.2,84.4 666.8,84.2 675.8,83.8 679.5,83.8 690.3,84.1 706.6,86.3 710.2,87.0 712.0,86.8" fill="none" stroke="#d95926" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="52.0" cy="168.0" r="6" fill="transparent"><title>Anthropic · 2025-11-09 · 1427 · claude-sonnet-4-5-20250929-thinking-32k</title></circle>
-<circle cx="64.7" cy="167.0" r="6" fill="transparent"><title>Anthropic · 2025-11-16 · 1428 · claude-sonnet-4-5-20250929-thinking-32k</title></circle>
-<circle cx="66.5" cy="166.8" r="6" fill="transparent"><title>Anthropic · 2025-11-17 · 1428 · claude-sonnet-4-5-20250929-thinking-32k</title></circle>
-<circle cx="68.3" cy="166.7" r="6" fill="transparent"><title>Anthropic · 2025-11-18 · 1428 · claude-sonnet-4-5-20250929-thinking-32k</title></circle>
-<circle cx="71.9" cy="167.4" r="6" fill="transparent"><title>Anthropic · 2025-11-20 · 1427 · claude-sonnet-4-5-20250929-thinking-32k</title></circle>
-<circle cx="82.7" cy="150.9" r="6" fill="transparent"><title>Anthropic · 2025-11-26 · 1445 · claude-opus-4-5-20251101</title></circle>
-<circle cx="91.8" cy="153.2" r="6" fill="transparent"><title>Anthropic · 2025-12-01 · 1442 · claude-opus-4-5-20251101-thinking-32k</title></circle>
-<circle cx="97.2" cy="151.9" r="6" fill="transparent"><title>Anthropic · 2025-12-04 · 1444 · claude-opus-4-5-20251101</title></circle>
-<circle cx="99.0" cy="150.7" r="6" fill="transparent"><title>Anthropic · 2025-12-05 · 1445 · claude-opus-4-5-20251101-thinking-32k</title></circle>
-<circle cx="104.4" cy="151.0" r="6" fill="transparent"><title>Anthropic · 2025-12-08 · 1445 · claude-opus-4-5-20251101-thinking-32k</title></circle>
-<circle cx="109.9" cy="150.2" r="6" fill="transparent"><title>Anthropic · 2025-12-11 · 1446 · claude-opus-4-5-20251101</title></circle>
-<circle cx="117.1" cy="151.7" r="6" fill="transparent"><title>Anthropic · 2025-12-15 · 1444 · claude-opus-4-5-20251101-thinking-32k</title></circle>
-<circle cx="118.9" cy="152.6" r="6" fill="transparent"><title>Anthropic · 2025-12-16 · 1443 · claude-opus-4-5-20251101-thinking-32k</title></circle>
-<circle cx="122.5" cy="152.1" r="6" fill="transparent"><title>Anthropic · 2025-12-18 · 1443 · claude-opus-4-5-20251101</title></circle>
-<circle cx="124.3" cy="151.7" r="6" fill="transparent"><title>Anthropic · 2025-12-19 · 1444 · claude-opus-4-5-20251101</title></circle>
-<circle cx="127.9" cy="151.6" r="6" fill="transparent"><title>Anthropic · 2025-12-21 · 1444 · claude-opus-4-5-20251101</title></circle>
-<circle cx="131.6" cy="150.1" r="6" fill="transparent"><title>Anthropic · 2025-12-23 · 1446 · claude-opus-4-5-20251101</title></circle>
-<circle cx="144.2" cy="150.6" r="6" fill="transparent"><title>Anthropic · 2025-12-30 · 1445 · claude-opus-4-5-20251101</title></circle>
-<circle cx="162.3" cy="152.9" r="6" fill="transparent"><title>Anthropic · 2026-01-09 · 1443 · claude-opus-4-5-20251101</title></circle>
-<circle cx="194.8" cy="151.0" r="6" fill="transparent"><title>Anthropic · 2026-01-27 · 1445 · claude-opus-4-5-20251101</title></circle>
-<circle cx="198.5" cy="151.8" r="6" fill="transparent"><title>Anthropic · 2026-01-29 · 1444 · claude-opus-4-5-20251101</title></circle>
-<circle cx="212.9" cy="97.7" r="6" fill="transparent"><title>Anthropic · 2026-02-06 · 1501 · claude-opus-4-6-thinking</title></circle>
-<circle cx="218.4" cy="96.6" r="6" fill="transparent"><title>Anthropic · 2026-02-09 · 1503 · claude-opus-4-6-thinking</title></circle>
-<circle cx="220.2" cy="96.1" r="6" fill="transparent"><title>Anthropic · 2026-02-10 · 1503 · claude-opus-4-6-thinking</title></circle>
-<circle cx="222.0" cy="95.6" r="6" fill="transparent"><title>Anthropic · 2026-02-11 · 1504 · claude-opus-4-6-thinking</title></circle>
-<circle cx="231.0" cy="95.1" r="6" fill="transparent"><title>Anthropic · 2026-02-16 · 1504 · claude-opus-4-6-thinking</title></circle>
-<circle cx="232.8" cy="96.1" r="6" fill="transparent"><title>Anthropic · 2026-02-17 · 1503 · claude-opus-4-6-thinking</title></circle>
-<circle cx="236.4" cy="96.2" r="6" fill="transparent"><title>Anthropic · 2026-02-19 · 1503 · claude-opus-4-6</title></circle>
-<circle cx="238.2" cy="96.3" r="6" fill="transparent"><title>Anthropic · 2026-02-20 · 1503 · claude-opus-4-6</title></circle>
-<circle cx="240.1" cy="96.1" r="6" fill="transparent"><title>Anthropic · 2026-02-21 · 1503 · claude-opus-4-6</title></circle>
-<circle cx="241.9" cy="96.1" r="6" fill="transparent"><title>Anthropic · 2026-02-22 · 1503 · claude-opus-4-6</title></circle>
-<circle cx="245.5" cy="96.9" r="6" fill="transparent"><title>Anthropic · 2026-02-24 · 1502 · claude-opus-4-6</title></circle>
-<circle cx="247.3" cy="96.9" r="6" fill="transparent"><title>Anthropic · 2026-02-25 · 1502 · claude-opus-4-6</title></circle>
-<circle cx="249.1" cy="97.5" r="6" fill="transparent"><title>Anthropic · 2026-02-26 · 1502 · claude-opus-4-6</title></circle>
-<circle cx="258.1" cy="95.4" r="6" fill="transparent"><title>Anthropic · 2026-03-03 · 1504 · claude-opus-4-6</title></circle>
-<circle cx="259.9" cy="96.3" r="6" fill="transparent"><title>Anthropic · 2026-03-04 · 1503 · claude-opus-4-6</title></circle>
-<circle cx="261.8" cy="96.4" r="6" fill="transparent"><title>Anthropic · 2026-03-05 · 1503 · claude-opus-4-6</title></circle>
-<circle cx="263.6" cy="96.8" r="6" fill="transparent"><title>Anthropic · 2026-03-06 · 1502 · claude-opus-4-6</title></circle>
-<circle cx="272.6" cy="97.3" r="6" fill="transparent"><title>Anthropic · 2026-03-11 · 1502 · claude-opus-4-6</title></circle>
-<circle cx="281.6" cy="99.9" r="6" fill="transparent"><title>Anthropic · 2026-03-16 · 1499 · claude-opus-4-6</title></circle>
-<circle cx="285.3" cy="100.1" r="6" fill="transparent"><title>Anthropic · 2026-03-18 · 1499 · claude-opus-4-6-thinking</title></circle>
-<circle cx="287.1" cy="100.0" r="6" fill="transparent"><title>Anthropic · 2026-03-19 · 1499 · claude-opus-4-6-thinking</title></circle>
-<circle cx="288.9" cy="99.8" r="6" fill="transparent"><title>Anthropic · 2026-03-20 · 1499 · claude-opus-4-6-thinking</title></circle>
-<circle cx="299.7" cy="98.3" r="6" fill="transparent"><title>Anthropic · 2026-03-26 · 1501 · claude-opus-4-6-thinking</title></circle>
-<circle cx="308.8" cy="98.5" r="6" fill="transparent"><title>Anthropic · 2026-03-31 · 1501 · claude-opus-4-6-thinking</title></circle>
-<circle cx="312.4" cy="98.8" r="6" fill="transparent"><title>Anthropic · 2026-04-02 · 1500 · claude-opus-4-6-thinking</title></circle>
-<circle cx="321.4" cy="99.6" r="6" fill="transparent"><title>Anthropic · 2026-04-07 · 1499 · claude-opus-4-6-thinking</title></circle>
-<circle cx="325.0" cy="98.8" r="6" fill="transparent"><title>Anthropic · 2026-04-09 · 1500 · claude-opus-4-6-thinking</title></circle>
-<circle cx="326.8" cy="98.4" r="6" fill="transparent"><title>Anthropic · 2026-04-10 · 1501 · claude-opus-4-6-thinking</title></circle>
-<circle cx="334.1" cy="99.7" r="6" fill="transparent"><title>Anthropic · 2026-04-14 · 1499 · claude-opus-4-6-thinking</title></circle>
-<circle cx="339.5" cy="99.3" r="6" fill="transparent"><title>Anthropic · 2026-04-17 · 1500 · claude-opus-4-6-thinking</title></circle>
-<circle cx="344.9" cy="99.8" r="6" fill="transparent"><title>Anthropic · 2026-04-20 · 1499 · claude-opus-4-6-thinking</title></circle>
-<circle cx="348.5" cy="99.1" r="6" fill="transparent"><title>Anthropic · 2026-04-22 · 1500 · claude-opus-4-6-thinking</title></circle>
-<circle cx="350.4" cy="98.8" r="6" fill="transparent"><title>Anthropic · 2026-04-23 · 1500 · claude-opus-4-6-thinking</title></circle>
-<circle cx="357.6" cy="99.5" r="6" fill="transparent"><title>Anthropic · 2026-04-27 · 1499 · claude-opus-4-6-thinking</title></circle>
-<circle cx="359.4" cy="99.5" r="6" fill="transparent"><title>Anthropic · 2026-04-28 · 1499 · claude-opus-4-6-thinking</title></circle>
-<circle cx="361.2" cy="98.8" r="6" fill="transparent"><title>Anthropic · 2026-04-29 · 1500 · claude-opus-4-6-thinking</title></circle>
-<circle cx="363.0" cy="98.5" r="6" fill="transparent"><title>Anthropic · 2026-04-30 · 1501 · claude-opus-4-6-thinking</title></circle>
-<circle cx="364.8" cy="98.8" r="6" fill="transparent"><title>Anthropic · 2026-05-01 · 1500 · claude-opus-4-6-thinking</title></circle>
-<circle cx="373.9" cy="98.9" r="6" fill="transparent"><title>Anthropic · 2026-05-06 · 1500 · claude-opus-4-6-thinking</title></circle>
-<circle cx="375.7" cy="98.5" r="6" fill="transparent"><title>Anthropic · 2026-05-07 · 1501 · claude-opus-4-6-thinking</title></circle>
-<circle cx="384.7" cy="99.1" r="6" fill="transparent"><title>Anthropic · 2026-05-12 · 1500 · claude-opus-4-6-thinking</title></circle>
-<circle cx="388.3" cy="99.3" r="6" fill="transparent"><title>Anthropic · 2026-05-14 · 1500 · claude-opus-4-6-thinking</title></circle>
-<circle cx="395.6" cy="99.1" r="6" fill="transparent"><title>Anthropic · 2026-05-18 · 1500 · claude-opus-4-6-thinking</title></circle>
-<circle cx="397.4" cy="99.0" r="6" fill="transparent"><title>Anthropic · 2026-05-19 · 1500 · claude-opus-4-6-thinking</title></circle>
-<circle cx="411.8" cy="99.6" r="6" fill="transparent"><title>Anthropic · 2026-05-27 · 1499 · claude-opus-4-6-thinking</title></circle>
-<circle cx="424.5" cy="98.6" r="6" fill="transparent"><title>Anthropic · 2026-06-03 · 1500 · claude-opus-4-6-thinking</title></circle>
-<circle cx="426.3" cy="98.7" r="6" fill="transparent"><title>Anthropic · 2026-06-04 · 1500 · claude-opus-4-6-thinking</title></circle>
-<circle cx="428.1" cy="98.5" r="6" fill="transparent"><title>Anthropic · 2026-06-05 · 1501 · claude-opus-4-6-thinking</title></circle>
-<circle cx="437.2" cy="98.4" r="6" fill="transparent"><title>Anthropic · 2026-06-10 · 1501 · claude-opus-4-6-thinking</title></circle>
-<circle cx="448.0" cy="98.4" r="6" fill="transparent"><title>Anthropic · 2026-06-16 · 1501 · claude-opus-4-6-thinking</title></circle>
-<circle cx="464.3" cy="98.8" r="6" fill="transparent"><title>Anthropic · 2026-06-25 · 1500 · claude-opus-4-6-thinking</title></circle>
-<circle cx="476.9" cy="98.2" r="6" fill="transparent"><title>Anthropic · 2026-07-02 · 1501 · claude-opus-4-6-thinking</title></circle>
-<circle cx="491.4" cy="97.9" r="6" fill="transparent"><title>Anthropic · 2026-07-10 · 1501 · claude-opus-4-6-thinking</title></circle>
-<circle cx="495.0" cy="98.0" r="6" fill="transparent"><title>Anthropic · 2026-07-12 · 1501 · claude-opus-4-6-thinking</title></circle>
-<circle cx="498.6" cy="97.9" r="6" fill="transparent"><title>Anthropic · 2026-07-14 · 1501 · claude-opus-4-6-thinking</title></circle>
-<circle cx="502.2" cy="97.6" r="6" fill="transparent"><title>Anthropic · 2026-07-16 · 1501 · claude-opus-4-6-thinking</title></circle>
-<circle cx="509.5" cy="97.3" r="6" fill="transparent"><title>Anthropic · 2026-07-20 · 1502 · claude-opus-4-6-thinking</title></circle>
-<circle cx="511.3" cy="96.6" r="6" fill="transparent"><title>Anthropic · 2026-07-21 · 1503 · claude-opus-4-6-thinking</title></circle>
-<circle cx="520.3" cy="93.4" r="6" fill="transparent"><title>Anthropic · 2026-07-26 · 1506 · claude-opus-5-high</title></circle>
-<circle cx="522.1" cy="88.1" r="6" fill="transparent"><title>Anthropic · 2026-07-27 · 1512 · claude-opus-5-max</title></circle>
-<circle cx="527.6" cy="88.1" r="6" fill="transparent"><title>Anthropic · 2026-07-30 · 1512 · claude-opus-5-max</title></circle>
-<circle cx="533.0" cy="92.2" r="6" fill="transparent"><title>Anthropic · 2026-08-02 · 1507 · claude-opus-5-max</title></circle>
-<circle cx="534.8" cy="92.2" r="6" fill="transparent"><title>Anthropic · 2026-08-03 · 1507 · claude-opus-5-max</title></circle>
-<circle cx="540.2" cy="93.7" r="6" fill="transparent"><title>Anthropic · 2026-08-06 · 1506 · claude-opus-5-max</title></circle>
-<circle cx="547.5" cy="91.7" r="6" fill="transparent"><title>Anthropic · 2026-08-10 · 1508 · claude-opus-5-max</title></circle>
-<circle cx="549.3" cy="92.4" r="6" fill="transparent"><title>Anthropic · 2026-08-11 · 1507 · claude-opus-5-max</title></circle>
-<circle cx="551.1" cy="91.7" r="6" fill="transparent"><title>Anthropic · 2026-08-12 · 1508 · claude-opus-5-max</title></circle>
-<circle cx="563.7" cy="94.2" r="6" fill="transparent"><title>Anthropic · 2026-08-19 · 1505 · claude-opus-5-high</title></circle>
-<circle cx="567.3" cy="95.0" r="6" fill="transparent"><title>Anthropic · 2026-08-21 · 1504 · claude-opus-5-high</title></circle>
-<circle cx="578.2" cy="94.5" r="6" fill="transparent"><title>Anthropic · 2026-08-27 · 1505 · claude-opus-5-max</title></circle>
-<circle cx="587.2" cy="94.3" r="6" fill="transparent"><title>Anthropic · 2026-09-01 · 1505 · claude-opus-5-max</title></circle>
-<circle cx="589.0" cy="86.1" r="6" fill="transparent"><title>Anthropic · 2026-09-02 · 1514 · claude-fable-5.1-max</title></circle>
-<circle cx="605.3" cy="89.2" r="6" fill="transparent"><title>Anthropic · 2026-09-11 · 1510 · claude-fable-5.1-max</title></circle>
-<circle cx="608.9" cy="91.9" r="6" fill="transparent"><title>Anthropic · 2026-09-13 · 1508 · claude-fable-5.1-max</title></circle>
-<circle cx="630.6" cy="82.3" r="6" fill="transparent"><title>Anthropic · 2026-09-25 · 1518 · claude-opus-5.5-high</title></circle>
-<circle cx="639.7" cy="87.8" r="6" fill="transparent"><title>Anthropic · 2026-09-30 · 1512 · claude-opus-5.5-high</title></circle>
-<circle cx="643.3" cy="88.0" r="6" fill="transparent"><title>Anthropic · 2026-10-02 · 1512 · claude-opus-5.5-high</title></circle>
-<circle cx="654.1" cy="85.1" r="6" fill="transparent"><title>Anthropic · 2026-10-08 · 1515 · claude-opus-5.5-high</title></circle>
-<circle cx="663.2" cy="84.4" r="6" fill="transparent"><title>Anthropic · 2026-10-13 · 1516 · claude-opus-5.5-high</title></circle>
-<circle cx="666.8" cy="84.2" r="6" fill="transparent"><title>Anthropic · 2026-10-15 · 1516 · Claude Opus 5.5 (High)</title></circle>
-<circle cx="675.8" cy="83.8" r="6" fill="transparent"><title>Anthropic · 2026-10-20 · 1516 · Claude Opus 5.5 (High)</title></circle>
-<circle cx="679.5" cy="83.8" r="6" fill="transparent"><title>Anthropic · 2026-10-22 · 1516 · Claude Opus 5.5 (High)</title></circle>
-<circle cx="690.3" cy="84.1" r="6" fill="transparent"><title>Anthropic · 2026-10-28 · 1516 · Claude Opus 5.5 (High)</title></circle>
-<circle cx="706.6" cy="86.3" r="6" fill="transparent"><title>Anthropic · 2026-11-06 · 1513 · Claude Fable 5.1 (Max)</title></circle>
-<circle cx="710.2" cy="87.0" r="6" fill="transparent"><title>Anthropic · 2026-11-08 · 1513 · Claude Fable 5.1 (Max)</title></circle>
-<circle cx="712.0" cy="86.8" r="6" fill="transparent"><title>Anthropic · 2026-11-09 · 1513 · Claude Opus 5.5 (High)</title></circle>
-<circle cx="712.0" cy="86.8" r="4" fill="#d95926" stroke="#0d1117" stroke-width="2"/>
-<polyline points="52.0,168.5 64.7,168.8 66.5,168.9 68.3,155.2 71.9,155.7 82.7,149.6 91.8,152.6 97.2,152.0 99.0,152.2 104.4,151.5 109.9,151.3 117.1,151.2 118.9,150.8 122.5,150.1 124.3,151.2 127.9,151.8 131.6,153.0 144.2,150.3 162.3,151.2 194.8,151.2 198.5,150.6 212.9,151.4 218.4,150.9 220.2,151.3 222.0,152.0 231.0,133.8 232.8,131.5 236.4,148.7 238.2,148.6 240.1,151.9 241.9,151.9 245.5,151.6 247.3,151.5 249.1,151.1 258.1,152.9 259.9,152.1 261.8,151.3 263.6,153.6 272.6,147.8 281.6,122.1 285.3,121.8 287.1,121.9 288.9,122.5 299.7,123.4 308.8,123.9 312.4,122.3 321.4,123.6 325.0,123.3 326.8,123.2 334.1,125.5 339.5,125.3 344.9,124.6 348.5,124.6 350.4,125.3 357.6,123.7 359.4,123.7 361.2,124.2 363.0,124.1 364.8,124.6 373.9,127.4 375.7,128.0 384.7,126.9 388.3,126.7 395.6,126.0 397.4,125.9 411.8,125.0 424.5,126.2 426.3,126.4 428.1,126.4 437.2,126.3 448.0,127.3 464.3,127.6 476.9,127.5 491.4,128.5 495.0,127.8 498.6,127.3 502.2,127.4 509.5,127.2 511.3,127.3 520.3,127.1 522.1,127.3 527.6,127.3 533.0,126.7 534.8,126.7 540.2,127.0 547.5,127.1 549.3,127.0 551.1,126.6 563.7,126.8 567.3,126.4 578.2,125.9 587.2,125.7 589.0,126.0 605.3,126.4 608.9,126.3 630.6,126.1 639.7,126.1 643.3,126.0 654.1,125.8 663.2,125.9 666.8,125.9 675.8,125.9 679.5,125.8 690.3,125.7 706.6,125.9 710.2,126.2 712.0,126.1" fill="none" stroke="#199e70" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="52.0" cy="168.5" r="6" fill="transparent"><title>OpenAI · 2025-11-09 · 1426 · chatgpt-4o-latest-20250326</title></circle>
-<circle cx="64.7" cy="168.8" r="6" fill="transparent"><title>OpenAI · 2025-11-16 · 1426 · chatgpt-4o-latest-20250326</title></circle>
-<circle cx="66.5" cy="168.9" r="6" fill="transparent"><title>OpenAI · 2025-11-17 · 1426 · chatgpt-4o-latest-20250326</title></circle>
-<circle cx="68.3" cy="155.2" r="6" fill="transparent"><title>OpenAI · 2025-11-18 · 1440 · gpt-5.1-high</title></circle>
-<circle cx="71.9" cy="155.7" r="6" fill="transparent"><title>OpenAI · 2025-11-20 · 1440 · gpt-5.1-high</title></circle>
-<circle cx="82.7" cy="149.6" r="6" fill="transparent"><title>OpenAI · 2025-11-26 · 1446 · gpt-5.1-high</title></circle>
-<circle cx="91.8" cy="152.6" r="6" fill="transparent"><title>OpenAI · 2025-12-01 · 1443 · gpt-5.1-high</title></circle>
-<circle cx="97.2" cy="152.0" r="6" fill="transparent"><title>OpenAI · 2025-12-04 · 1444 · gpt-5.1-high</title></circle>
-<circle cx="99.0" cy="152.2" r="6" fill="transparent"><title>OpenAI · 2025-12-05 · 1443 · gpt-5.1-high</title></circle>
-<circle cx="104.4" cy="151.5" r="6" fill="transparent"><title>OpenAI · 2025-12-08 · 1444 · gpt-5.1-high</title></circle>
-<circle cx="109.9" cy="151.3" r="6" fill="transparent"><title>OpenAI · 2025-12-11 · 1444 · gpt-5.1-high</title></circle>
-<circle cx="117.1" cy="151.2" r="6" fill="transparent"><title>OpenAI · 2025-12-15 · 1444 · gpt-5.1-high</title></circle>
-<circle cx="118.9" cy="150.8" r="6" fill="transparent"><title>OpenAI · 2025-12-16 · 1445 · gpt-5.1-high</title></circle>
-<circle cx="122.5" cy="150.1" r="6" fill="transparent"><title>OpenAI · 2025-12-18 · 1446 · gpt-5.1-high</title></circle>
-<circle cx="124.3" cy="151.2" r="6" fill="transparent"><title>OpenAI · 2025-12-19 · 1445 · gpt-5.1-high</title></circle>
-<circle cx="127.9" cy="151.8" r="6" fill="transparent"><title>OpenAI · 2025-12-21 · 1444 · gpt-5.1-high</title></circle>
-<circle cx="131.6" cy="153.0" r="6" fill="transparent"><title>OpenAI · 2025-12-23 · 1443 · gpt-5.1-high</title></circle>
-<circle cx="144.2" cy="150.3" r="6" fill="transparent"><title>OpenAI · 2025-12-30 · 1445 · gpt-5.1-high</title></circle>
-<circle cx="162.3" cy="151.2" r="6" fill="transparent"><title>OpenAI · 2026-01-09 · 1444 · gpt-5.1-high</title></circle>
-<circle cx="194.8" cy="151.2" r="6" fill="transparent"><title>OpenAI · 2026-01-27 · 1444 · gpt-5.1-high</title></circle>
-<circle cx="198.5" cy="150.6" r="6" fill="transparent"><title>OpenAI · 2026-01-29 · 1445 · gpt-5.1-high</title></circle>
-<circle cx="212.9" cy="151.4" r="6" fill="transparent"><title>OpenAI · 2026-02-06 · 1444 · gpt-5.1-high</title></circle>
-<circle cx="218.4" cy="150.9" r="6" fill="transparent"><title>OpenAI · 2026-02-09 · 1445 · gpt-5.1-high</title></circle>
-<circle cx="220.2" cy="151.3" r="6" fill="transparent"><title>OpenAI · 2026-02-10 · 1444 · gpt-5.1-high</title></circle>
-<circle cx="222.0" cy="152.0" r="6" fill="transparent"><title>OpenAI · 2026-02-11 · 1444 · gpt-5.1-high</title></circle>
-<circle cx="231.0" cy="133.8" r="6" fill="transparent"><title>OpenAI · 2026-02-16 · 1463 · gpt-5.2-chat-latest-20260210</title></circle>
-<circle cx="232.8" cy="131.5" r="6" fill="transparent"><title>OpenAI · 2026-02-17 · 1465 · gpt-5.2-chat-latest-20260210</title></circle>
-<circle cx="236.4" cy="148.7" r="6" fill="transparent"><title>OpenAI · 2026-02-19 · 1447 · gpt-5.2-chat-latest-20260210</title></circle>
-<circle cx="238.2" cy="148.6" r="6" fill="transparent"><title>OpenAI · 2026-02-20 · 1447 · gpt-5.2-chat-latest-20260210</title></circle>
-<circle cx="240.1" cy="151.9" r="6" fill="transparent"><title>OpenAI · 2026-02-21 · 1444 · gpt-5.1-high</title></circle>
-<circle cx="241.9" cy="151.9" r="6" fill="transparent"><title>OpenAI · 2026-02-22 · 1444 · gpt-5.1-high</title></circle>
-<circle cx="245.5" cy="151.6" r="6" fill="transparent"><title>OpenAI · 2026-02-24 · 1444 · gpt-5.1-high</title></circle>
-<circle cx="247.3" cy="151.5" r="6" fill="transparent"><title>OpenAI · 2026-02-25 · 1444 · gpt-5.2-chat-latest-20260210</title></circle>
-<circle cx="249.1" cy="151.1" r="6" fill="transparent"><title>OpenAI · 2026-02-26 · 1445 · gpt-5.2-chat-latest-20260210</title></circle>
-<circle cx="258.1" cy="152.9" r="6" fill="transparent"><title>OpenAI · 2026-03-03 · 1443 · gpt-5.2-chat-latest-20260210</title></circle>
-<circle cx="259.9" cy="152.1" r="6" fill="transparent"><title>OpenAI · 2026-03-04 · 1444 · gpt-5.2-chat-latest-20260210</title></circle>
-<circle cx="261.8" cy="151.3" r="6" fill="transparent"><title>OpenAI · 2026-03-05 · 1444 · gpt-5.2-chat-latest-20260210</title></circle>
-<circle cx="263.6" cy="153.6" r="6" fill="transparent"><title>OpenAI · 2026-03-06 · 1442 · gpt-5.2-chat-latest-20260210</title></circle>
-<circle cx="272.6" cy="147.8" r="6" fill="transparent"><title>OpenAI · 2026-03-11 · 1448 · gpt-5.4</title></circle>
-<circle cx="281.6" cy="122.1" r="6" fill="transparent"><title>OpenAI · 2026-03-16 · 1475 · gpt-5.4-high</title></circle>
-<circle cx="285.3" cy="121.8" r="6" fill="transparent"><title>OpenAI · 2026-03-18 · 1476 · gpt-5.4-high</title></circle>
-<circle cx="287.1" cy="121.9" r="6" fill="transparent"><title>OpenAI · 2026-03-19 · 1476 · gpt-5.4-high</title></circle>
-<circle cx="288.9" cy="122.5" r="6" fill="transparent"><title>OpenAI · 2026-03-20 · 1475 · gpt-5.4-high</title></circle>
-<circle cx="299.7" cy="123.4" r="6" fill="transparent"><title>OpenAI · 2026-03-26 · 1474 · gpt-5.4-high</title></circle>
-<circle cx="308.8" cy="123.9" r="6" fill="transparent"><title>OpenAI · 2026-03-31 · 1473 · gpt-5.4-high</title></circle>
-<circle cx="312.4" cy="122.3" r="6" fill="transparent"><title>OpenAI · 2026-04-02 · 1475 · gpt-5.4-high</title></circle>
-<circle cx="321.4" cy="123.6" r="6" fill="transparent"><title>OpenAI · 2026-04-07 · 1474 · gpt-5.4-high</title></circle>
-<circle cx="325.0" cy="123.3" r="6" fill="transparent"><title>OpenAI · 2026-04-09 · 1474 · gpt-5.4-high</title></circle>
-<circle cx="326.8" cy="123.2" r="6" fill="transparent"><title>OpenAI · 2026-04-10 · 1474 · gpt-5.4-high</title></circle>
-<circle cx="334.1" cy="125.5" r="6" fill="transparent"><title>OpenAI · 2026-04-14 · 1472 · gpt-5.4-high</title></circle>
-<circle cx="339.5" cy="125.3" r="6" fill="transparent"><title>OpenAI · 2026-04-17 · 1472 · gpt-5.4-high</title></circle>
-<circle cx="344.9" cy="124.6" r="6" fill="transparent"><title>OpenAI · 2026-04-20 · 1473 · gpt-5.4-high</title></circle>
-<circle cx="348.5" cy="124.6" r="6" fill="transparent"><title>OpenAI · 2026-04-22 · 1473 · gpt-5.4-high</title></circle>
-<circle cx="350.4" cy="125.3" r="6" fill="transparent"><title>OpenAI · 2026-04-23 · 1472 · gpt-5.4-high</title></circle>
-<circle cx="357.6" cy="123.7" r="6" fill="transparent"><title>OpenAI · 2026-04-27 · 1474 · gpt-5.5-high</title></circle>
-<circle cx="359.4" cy="123.7" r="6" fill="transparent"><title>OpenAI · 2026-04-28 · 1474 · gpt-5.5-high</title></circle>
-<circle cx="361.2" cy="124.2" r="6" fill="transparent"><title>OpenAI · 2026-04-29 · 1473 · gpt-5.5-high</title></circle>
-<circle cx="363.0" cy="124.1" r="6" fill="transparent"><title>OpenAI · 2026-04-30 · 1473 · gpt-5.5-high</title></circle>
-<circle cx="364.8" cy="124.6" r="6" fill="transparent"><title>OpenAI · 2026-05-01 · 1473 · gpt-5.5-high</title></circle>
-<circle cx="373.9" cy="127.4" r="6" fill="transparent"><title>OpenAI · 2026-05-06 · 1470 · gpt-5.5-high</title></circle>
-<circle cx="375.7" cy="128.0" r="6" fill="transparent"><title>OpenAI · 2026-05-07 · 1469 · gpt-5.4-high</title></circle>
-<circle cx="384.7" cy="126.9" r="6" fill="transparent"><title>OpenAI · 2026-05-12 · 1470 · gpt-5.4-high</title></circle>
-<circle cx="388.3" cy="126.7" r="6" fill="transparent"><title>OpenAI · 2026-05-14 · 1471 · gpt-5.4-high</title></circle>
-<circle cx="395.6" cy="126.0" r="6" fill="transparent"><title>OpenAI · 2026-05-18 · 1471 · gpt-5.4-high</title></circle>
-<circle cx="397.4" cy="125.9" r="6" fill="transparent"><title>OpenAI · 2026-05-19 · 1471 · gpt-5.4-high</title></circle>
-<circle cx="411.8" cy="125.0" r="6" fill="transparent"><title>OpenAI · 2026-05-27 · 1472 · gpt-5.4-high</title></circle>
-<circle cx="424.5" cy="126.2" r="6" fill="transparent"><title>OpenAI · 2026-06-03 · 1471 · gpt-5.4-high</title></circle>
-<circle cx="426.3" cy="126.4" r="6" fill="transparent"><title>OpenAI · 2026-06-04 · 1471 · gpt-5.4-high</title></circle>
-<circle cx="428.1" cy="126.4" r="6" fill="transparent"><title>OpenAI · 2026-06-05 · 1471 · gpt-5.4-high</title></circle>
-<circle cx="437.2" cy="126.3" r="6" fill="transparent"><title>OpenAI · 2026-06-10 · 1471 · gpt-5.4-high</title></circle>
-<circle cx="448.0" cy="127.3" r="6" fill="transparent"><title>OpenAI · 2026-06-16 · 1470 · gpt-5.4-high</title></circle>
-<circle cx="464.3" cy="127.6" r="6" fill="transparent"><title>OpenAI · 2026-06-25 · 1470 · gpt-5.4-high</title></circle>
-<circle cx="476.9" cy="127.5" r="6" fill="transparent"><title>OpenAI · 2026-07-02 · 1470 · gpt-5.4-high</title></circle>
-<circle cx="491.4" cy="128.5" r="6" fill="transparent"><title>OpenAI · 2026-07-10 · 1469 · gpt-5.5-high</title></circle>
-<circle cx="495.0" cy="127.8" r="6" fill="transparent"><title>OpenAI · 2026-07-12 · 1469 · gpt-5.5-high</title></circle>
-<circle cx="498.6" cy="127.3" r="6" fill="transparent"><title>OpenAI · 2026-07-14 · 1470 · gpt-5.5-high</title></circle>
-<circle cx="502.2" cy="127.4" r="6" fill="transparent"><title>OpenAI · 2026-07-16 · 1470 · gpt-5.4-high</title></circle>
-<circle cx="509.5" cy="127.2" r="6" fill="transparent"><title>OpenAI · 2026-07-20 · 1470 · gpt-5.4-high</title></circle>
-<circle cx="511.3" cy="127.3" r="6" fill="transparent"><title>OpenAI · 2026-07-21 · 1470 · gpt-5.4-high</title></circle>
-<circle cx="520.3" cy="127.1" r="6" fill="transparent"><title>OpenAI · 2026-07-26 · 1470 · gpt-5.4-high</title></circle>
-<circle cx="522.1" cy="127.3" r="6" fill="transparent"><title>OpenAI · 2026-07-27 · 1470 · gpt-5.4-high</title></circle>
-<circle cx="527.6" cy="127.3" r="6" fill="transparent"><title>OpenAI · 2026-07-30 · 1470 · gpt-5.4-high</title></circle>
-<circle cx="533.0" cy="126.7" r="6" fill="transparent"><title>OpenAI · 2026-08-02 · 1470 · gpt-5.5-high</title></circle>
-<circle cx="534.8" cy="126.7" r="6" fill="transparent"><title>OpenAI · 2026-08-03 · 1470 · gpt-5.5-high</title></circle>
-<circle cx="540.2" cy="127.0" r="6" fill="transparent"><title>OpenAI · 2026-08-06 · 1470 · gpt-5.5-high</title></circle>
-<circle cx="547.5" cy="127.1" r="6" fill="transparent"><title>OpenAI · 2026-08-10 · 1470 · gpt-5.5-high</title></circle>
-<circle cx="549.3" cy="127.0" r="6" fill="transparent"><title>OpenAI · 2026-08-11 · 1470 · gpt-5.5-high</title></circle>
-<circle cx="551.1" cy="126.6" r="6" fill="transparent"><title>OpenAI · 2026-08-12 · 1471 · gpt-5.5-high</title></circle>
-<circle cx="563.7" cy="126.8" r="6" fill="transparent"><title>OpenAI · 2026-08-19 · 1470 · gpt-5.5-high</title></circle>
-<circle cx="567.3" cy="126.4" r="6" fill="transparent"><title>OpenAI · 2026-08-21 · 1471 · gpt-5.5-high</title></circle>
-<circle cx="578.2" cy="125.9" r="6" fill="transparent"><title>OpenAI · 2026-08-27 · 1471 · gpt-5.5-high</title></circle>
-<circle cx="587.2" cy="125.7" r="6" fill="transparent"><title>OpenAI · 2026-09-01 · 1472 · gpt-5.5-high</title></circle>
-<circle cx="589.0" cy="126.0" r="6" fill="transparent"><title>OpenAI · 2026-09-02 · 1471 · gpt-5.5-high</title></circle>
-<circle cx="605.3" cy="126.4" r="6" fill="transparent"><title>OpenAI · 2026-09-11 · 1471 · gpt-5.5-high</title></circle>
-<circle cx="608.9" cy="126.3" r="6" fill="transparent"><title>OpenAI · 2026-09-13 · 1471 · gpt-5.5-high</title></circle>
-<circle cx="630.6" cy="126.1" r="6" fill="transparent"><title>OpenAI · 2026-09-25 · 1471 · gpt-5.5-high</title></circle>
-<circle cx="639.7" cy="126.1" r="6" fill="transparent"><title>OpenAI · 2026-09-30 · 1471 · gpt-5.5-high</title></circle>
-<circle cx="643.3" cy="126.0" r="6" fill="transparent"><title>OpenAI · 2026-10-02 · 1471 · gpt-5.5-high</title></circle>
-<circle cx="654.1" cy="125.8" r="6" fill="transparent"><title>OpenAI · 2026-10-08 · 1472 · gpt-5.5-high</title></circle>
-<circle cx="663.2" cy="125.9" r="6" fill="transparent"><title>OpenAI · 2026-10-13 · 1471 · gpt-5.5-high</title></circle>
-<circle cx="666.8" cy="125.9" r="6" fill="transparent"><title>OpenAI · 2026-10-15 · 1471 · gpt-5.5-high</title></circle>
-<circle cx="675.8" cy="125.9" r="6" fill="transparent"><title>OpenAI · 2026-10-20 · 1471 · GPT-5.5 (High)</title></circle>
-<circle cx="679.5" cy="125.8" r="6" fill="transparent"><title>OpenAI · 2026-10-22 · 1472 · GPT-5.5 (High)</title></circle>
-<circle cx="690.3" cy="125.7" r="6" fill="transparent"><title>OpenAI · 2026-10-28 · 1472 · GPT-5.5 (High)</title></circle>
-<circle cx="706.6" cy="125.9" r="6" fill="transparent"><title>OpenAI · 2026-11-06 · 1471 · GPT-5.5 (High)</title></circle>
-<circle cx="710.2" cy="126.2" r="6" fill="transparent"><title>OpenAI · 2026-11-08 · 1471 · GPT-5.5 (High)</title></circle>
-<circle cx="712.0" cy="126.1" r="6" fill="transparent"><title>OpenAI · 2026-11-09 · 1471 · GPT-5.5 (High)</title></circle>
+<text x="136.3" y="352" font-size="11" fill="#898781" text-anchor="middle">Jan 2026</text>
+<text x="244.5" y="352" font-size="11" fill="#898781" text-anchor="middle">Mar</text>
+<text x="356.3" y="352" font-size="11" fill="#898781" text-anchor="middle">May</text>
+<text x="468.2" y="352" font-size="11" fill="#898781" text-anchor="middle">Jul</text>
+<text x="581.8" y="352" font-size="11" fill="#898781" text-anchor="middle">Sep</text>
+<text x="693.7" y="352" font-size="11" fill="#898781" text-anchor="middle">Nov</text>
+<polyline points="52.0,103.9 53.8,101.7 55.7,106.3 59.3,108.4 70.3,110.7 79.5,111.6 85.0,112.2 86.8,111.9 92.3,112.6 97.8,111.3 105.2,112.6 107.0,112.1 110.7,112.2 112.5,113.5 116.2,113.5 119.8,113.7 132.7,113.6 151.0,114.1 184.0,116.1 187.7,116.7 202.3,102.1 207.8,103.6 209.7,103.2 211.5,103.1 220.7,102.5 222.5,102.8 226.2,102.7 228.0,102.7 229.8,102.8 231.7,102.8 235.3,102.7 237.2,102.8 239.0,102.7 248.2,103.1 250.0,103.0 251.8,102.9 253.7,102.7 262.8,109.9 272.0,108.9 275.7,108.9 277.5,109.0 279.3,109.9 290.3,109.7 299.5,108.9 303.2,109.3 312.3,110.3 316.0,110.8 317.8,111.1 325.2,110.1 330.7,110.9 336.2,110.2 339.8,109.9 341.7,109.9 349.0,110.2 350.8,110.2 352.7,110.4 354.5,110.6 356.3,110.8 365.5,111.4 367.3,111.5 376.5,113.0 380.2,114.4 387.5,115.3 389.3,112.2 404.0,115.5 416.8,116.2 418.7,116.5 420.5,115.9 429.7,117.0 440.7,117.7 457.2,117.9 470.0,115.6 484.7,117.7 488.3,117.7 492.0,117.7 495.7,117.7 503.0,117.7 504.8,116.8 514.0,117.4 515.8,117.5 521.3,117.5 526.8,117.3 528.7,118.2 534.2,117.5 541.5,116.3 543.3,116.3 545.2,116.3 558.0,107.9 561.7,108.2 572.7,108.0 581.8,107.4 583.7,103.5 600.2,104.3 603.8,104.0 625.8,104.3 635.0,67.9 638.7,67.5 649.7,67.2 658.8,67.8 662.5,68.6 671.7,68.6 675.3,74.8 686.3,61.4 702.8,62.3 706.5,62.4 708.3,63.0 712.0,62.9" fill="none" stroke="#3987e5" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="52.0" cy="103.9" r="6" fill="transparent"><title>Google · 2025-11-16 · 1495 · gemini-3-pro</title></circle>
+<circle cx="53.8" cy="101.7" r="6" fill="transparent"><title>Google · 2025-11-17 · 1497 · gemini-3-pro</title></circle>
+<circle cx="55.7" cy="106.3" r="6" fill="transparent"><title>Google · 2025-11-18 · 1492 · gemini-3-pro</title></circle>
+<circle cx="59.3" cy="108.4" r="6" fill="transparent"><title>Google · 2025-11-20 · 1490 · gemini-3-pro</title></circle>
+<circle cx="70.3" cy="110.7" r="6" fill="transparent"><title>Google · 2025-11-26 · 1488 · gemini-3-pro</title></circle>
+<circle cx="79.5" cy="111.6" r="6" fill="transparent"><title>Google · 2025-12-01 · 1487 · gemini-3-pro</title></circle>
+<circle cx="85.0" cy="112.2" r="6" fill="transparent"><title>Google · 2025-12-04 · 1486 · gemini-3-pro</title></circle>
+<circle cx="86.8" cy="111.9" r="6" fill="transparent"><title>Google · 2025-12-05 · 1486 · gemini-3-pro</title></circle>
+<circle cx="92.3" cy="112.6" r="6" fill="transparent"><title>Google · 2025-12-08 · 1486 · gemini-3-pro</title></circle>
+<circle cx="97.8" cy="111.3" r="6" fill="transparent"><title>Google · 2025-12-11 · 1487 · gemini-3-pro</title></circle>
+<circle cx="105.2" cy="112.6" r="6" fill="transparent"><title>Google · 2025-12-15 · 1486 · gemini-3-pro</title></circle>
+<circle cx="107.0" cy="112.1" r="6" fill="transparent"><title>Google · 2025-12-16 · 1486 · gemini-3-pro</title></circle>
+<circle cx="110.7" cy="112.2" r="6" fill="transparent"><title>Google · 2025-12-18 · 1486 · gemini-3-pro</title></circle>
+<circle cx="112.5" cy="113.5" r="6" fill="transparent"><title>Google · 2025-12-19 · 1485 · gemini-3-pro</title></circle>
+<circle cx="116.2" cy="113.5" r="6" fill="transparent"><title>Google · 2025-12-21 · 1485 · gemini-3-pro</title></circle>
+<circle cx="119.8" cy="113.7" r="6" fill="transparent"><title>Google · 2025-12-23 · 1484 · gemini-3-pro</title></circle>
+<circle cx="132.7" cy="113.6" r="6" fill="transparent"><title>Google · 2025-12-30 · 1484 · gemini-3-pro</title></circle>
+<circle cx="151.0" cy="114.1" r="6" fill="transparent"><title>Google · 2026-01-09 · 1484 · gemini-3-pro</title></circle>
+<circle cx="184.0" cy="116.1" r="6" fill="transparent"><title>Google · 2026-01-27 · 1482 · gemini-3-pro</title></circle>
+<circle cx="187.7" cy="116.7" r="6" fill="transparent"><title>Google · 2026-01-29 · 1481 · gemini-3-pro</title></circle>
+<circle cx="202.3" cy="102.1" r="6" fill="transparent"><title>Google · 2026-02-06 · 1497 · gemini-3.1-pro-preview</title></circle>
+<circle cx="207.8" cy="103.6" r="6" fill="transparent"><title>Google · 2026-02-09 · 1495 · gemini-3.1-pro-preview</title></circle>
+<circle cx="209.7" cy="103.2" r="6" fill="transparent"><title>Google · 2026-02-10 · 1496 · gemini-3.1-pro-preview</title></circle>
+<circle cx="211.5" cy="103.1" r="6" fill="transparent"><title>Google · 2026-02-11 · 1496 · gemini-3.1-pro-preview</title></circle>
+<circle cx="220.7" cy="102.5" r="6" fill="transparent"><title>Google · 2026-02-16 · 1496 · gemini-3.1-pro-preview</title></circle>
+<circle cx="222.5" cy="102.8" r="6" fill="transparent"><title>Google · 2026-02-17 · 1496 · gemini-3.1-pro-preview</title></circle>
+<circle cx="226.2" cy="102.7" r="6" fill="transparent"><title>Google · 2026-02-19 · 1496 · gemini-3.1-pro-preview</title></circle>
+<circle cx="228.0" cy="102.7" r="6" fill="transparent"><title>Google · 2026-02-20 · 1496 · gemini-3.1-pro-preview</title></circle>
+<circle cx="229.8" cy="102.8" r="6" fill="transparent"><title>Google · 2026-02-21 · 1496 · gemini-3.1-pro-preview</title></circle>
+<circle cx="231.7" cy="102.8" r="6" fill="transparent"><title>Google · 2026-02-22 · 1496 · gemini-3.1-pro-preview</title></circle>
+<circle cx="235.3" cy="102.7" r="6" fill="transparent"><title>Google · 2026-02-24 · 1496 · gemini-3.1-pro-preview</title></circle>
+<circle cx="237.2" cy="102.8" r="6" fill="transparent"><title>Google · 2026-02-25 · 1496 · gemini-3.1-pro-preview</title></circle>
+<circle cx="239.0" cy="102.7" r="6" fill="transparent"><title>Google · 2026-02-26 · 1496 · gemini-3.1-pro-preview</title></circle>
+<circle cx="248.2" cy="103.1" r="6" fill="transparent"><title>Google · 2026-03-03 · 1496 · gemini-3.1-pro-preview</title></circle>
+<circle cx="250.0" cy="103.0" r="6" fill="transparent"><title>Google · 2026-03-04 · 1496 · gemini-3.1-pro-preview</title></circle>
+<circle cx="251.8" cy="102.9" r="6" fill="transparent"><title>Google · 2026-03-05 · 1496 · gemini-3.1-pro-preview</title></circle>
+<circle cx="253.7" cy="102.7" r="6" fill="transparent"><title>Google · 2026-03-06 · 1496 · gemini-3.1-pro-preview</title></circle>
+<circle cx="262.8" cy="109.9" r="6" fill="transparent"><title>Google · 2026-03-11 · 1488 · gemini-3.1-pro-preview</title></circle>
+<circle cx="272.0" cy="108.9" r="6" fill="transparent"><title>Google · 2026-03-16 · 1489 · gemini-3.1-pro-preview</title></circle>
+<circle cx="275.7" cy="108.9" r="6" fill="transparent"><title>Google · 2026-03-18 · 1489 · gemini-3.1-pro-preview</title></circle>
+<circle cx="277.5" cy="109.0" r="6" fill="transparent"><title>Google · 2026-03-19 · 1489 · gemini-3.1-pro-preview</title></circle>
+<circle cx="279.3" cy="109.9" r="6" fill="transparent"><title>Google · 2026-03-20 · 1488 · gemini-3.1-pro-preview</title></circle>
+<circle cx="290.3" cy="109.7" r="6" fill="transparent"><title>Google · 2026-03-26 · 1489 · gemini-3.1-pro-preview</title></circle>
+<circle cx="299.5" cy="108.9" r="6" fill="transparent"><title>Google · 2026-03-31 · 1489 · gemini-3.1-pro-preview</title></circle>
+<circle cx="303.2" cy="109.3" r="6" fill="transparent"><title>Google · 2026-04-02 · 1489 · gemini-3.1-pro-preview</title></circle>
+<circle cx="312.3" cy="110.3" r="6" fill="transparent"><title>Google · 2026-04-07 · 1488 · gemini-3.1-pro-preview</title></circle>
+<circle cx="316.0" cy="110.8" r="6" fill="transparent"><title>Google · 2026-04-09 · 1487 · gemini-3.1-pro-preview</title></circle>
+<circle cx="317.8" cy="111.1" r="6" fill="transparent"><title>Google · 2026-04-10 · 1487 · gemini-3.1-pro-preview</title></circle>
+<circle cx="325.2" cy="110.1" r="6" fill="transparent"><title>Google · 2026-04-14 · 1488 · gemini-3.1-pro-preview</title></circle>
+<circle cx="330.7" cy="110.9" r="6" fill="transparent"><title>Google · 2026-04-17 · 1487 · gemini-3.1-pro-preview</title></circle>
+<circle cx="336.2" cy="110.2" r="6" fill="transparent"><title>Google · 2026-04-20 · 1488 · gemini-3.1-pro-preview</title></circle>
+<circle cx="339.8" cy="109.9" r="6" fill="transparent"><title>Google · 2026-04-22 · 1488 · gemini-3.1-pro-preview</title></circle>
+<circle cx="341.7" cy="109.9" r="6" fill="transparent"><title>Google · 2026-04-23 · 1488 · gemini-3.1-pro-preview</title></circle>
+<circle cx="349.0" cy="110.2" r="6" fill="transparent"><title>Google · 2026-04-27 · 1488 · gemini-3.1-pro-preview</title></circle>
+<circle cx="350.8" cy="110.2" r="6" fill="transparent"><title>Google · 2026-04-28 · 1488 · gemini-3.1-pro-preview</title></circle>
+<circle cx="352.7" cy="110.4" r="6" fill="transparent"><title>Google · 2026-04-29 · 1488 · gemini-3.1-pro-preview</title></circle>
+<circle cx="354.5" cy="110.6" r="6" fill="transparent"><title>Google · 2026-04-30 · 1488 · gemini-3.1-pro-preview</title></circle>
+<circle cx="356.3" cy="110.8" r="6" fill="transparent"><title>Google · 2026-05-01 · 1487 · gemini-3.1-pro-preview</title></circle>
+<circle cx="365.5" cy="111.4" r="6" fill="transparent"><title>Google · 2026-05-06 · 1487 · gemini-3.1-pro-preview</title></circle>
+<circle cx="367.3" cy="111.5" r="6" fill="transparent"><title>Google · 2026-05-07 · 1487 · gemini-3.1-pro-preview</title></circle>
+<circle cx="376.5" cy="113.0" r="6" fill="transparent"><title>Google · 2026-05-12 · 1485 · gemini-3.1-pro-preview</title></circle>
+<circle cx="380.2" cy="114.4" r="6" fill="transparent"><title>Google · 2026-05-14 · 1484 · gemini-3.1-pro-preview</title></circle>
+<circle cx="387.5" cy="115.3" r="6" fill="transparent"><title>Google · 2026-05-18 · 1483 · gemini-3.1-pro-preview</title></circle>
+<circle cx="389.3" cy="112.2" r="6" fill="transparent"><title>Google · 2026-05-19 · 1486 · gemini-3.5-flash</title></circle>
+<circle cx="404.0" cy="115.5" r="6" fill="transparent"><title>Google · 2026-05-27 · 1482 · gemini-3.5-flash</title></circle>
+<circle cx="416.8" cy="116.2" r="6" fill="transparent"><title>Google · 2026-06-03 · 1482 · gemini-3.1-pro-preview</title></circle>
+<circle cx="418.7" cy="116.5" r="6" fill="transparent"><title>Google · 2026-06-04 · 1481 · gemini-3.1-pro-preview</title></circle>
+<circle cx="420.5" cy="115.9" r="6" fill="transparent"><title>Google · 2026-06-05 · 1482 · gemini-3.1-pro-preview</title></circle>
+<circle cx="429.7" cy="117.0" r="6" fill="transparent"><title>Google · 2026-06-10 · 1481 · gemini-3.1-pro-preview</title></circle>
+<circle cx="440.7" cy="117.7" r="6" fill="transparent"><title>Google · 2026-06-16 · 1480 · gemini-3.1-pro-preview</title></circle>
+<circle cx="457.2" cy="117.9" r="6" fill="transparent"><title>Google · 2026-06-25 · 1480 · gemini-3.5-flash</title></circle>
+<circle cx="470.0" cy="115.6" r="6" fill="transparent"><title>Google · 2026-07-02 · 1482 · gemini-3.5-flash</title></circle>
+<circle cx="484.7" cy="117.7" r="6" fill="transparent"><title>Google · 2026-07-10 · 1480 · gemini-3.5-flash-high</title></circle>
+<circle cx="488.3" cy="117.7" r="6" fill="transparent"><title>Google · 2026-07-12 · 1480 · gemini-3.5-flash-high</title></circle>
+<circle cx="492.0" cy="117.7" r="6" fill="transparent"><title>Google · 2026-07-14 · 1480 · gemini-3.5-flash-high</title></circle>
+<circle cx="495.7" cy="117.7" r="6" fill="transparent"><title>Google · 2026-07-16 · 1480 · gemini-3.5-flash-high</title></circle>
+<circle cx="503.0" cy="117.7" r="6" fill="transparent"><title>Google · 2026-07-20 · 1480 · gemini-3.5-flash-high</title></circle>
+<circle cx="504.8" cy="116.8" r="6" fill="transparent"><title>Google · 2026-07-21 · 1481 · gemini-3.6-flash</title></circle>
+<circle cx="514.0" cy="117.4" r="6" fill="transparent"><title>Google · 2026-07-26 · 1480 · gemini-3.5-flash-high</title></circle>
+<circle cx="515.8" cy="117.5" r="6" fill="transparent"><title>Google · 2026-07-27 · 1480 · gemini-3.5-flash-high</title></circle>
+<circle cx="521.3" cy="117.5" r="6" fill="transparent"><title>Google · 2026-07-30 · 1480 · gemini-3.5-flash-high</title></circle>
+<circle cx="526.8" cy="117.3" r="6" fill="transparent"><title>Google · 2026-08-02 · 1480 · gemini-3.5-flash-high</title></circle>
+<circle cx="528.7" cy="118.2" r="6" fill="transparent"><title>Google · 2026-08-03 · 1480 · gemini-3-pro</title></circle>
+<circle cx="534.2" cy="117.5" r="6" fill="transparent"><title>Google · 2026-08-06 · 1480 · gemini-3.5-flash-high</title></circle>
+<circle cx="541.5" cy="116.3" r="6" fill="transparent"><title>Google · 2026-08-10 · 1482 · gemini-3.5-flash-high</title></circle>
+<circle cx="543.3" cy="116.3" r="6" fill="transparent"><title>Google · 2026-08-11 · 1482 · gemini-3.5-flash-high</title></circle>
+<circle cx="545.2" cy="116.3" r="6" fill="transparent"><title>Google · 2026-08-12 · 1482 · gemini-3.5-flash-high</title></circle>
+<circle cx="558.0" cy="107.9" r="6" fill="transparent"><title>Google · 2026-08-19 · 1491 · gemini-3.7-flash-high</title></circle>
+<circle cx="561.7" cy="108.2" r="6" fill="transparent"><title>Google · 2026-08-21 · 1490 · gemini-3.7-flash-high</title></circle>
+<circle cx="572.7" cy="108.0" r="6" fill="transparent"><title>Google · 2026-08-27 · 1490 · gemini-3.7-flash-high</title></circle>
+<circle cx="581.8" cy="107.4" r="6" fill="transparent"><title>Google · 2026-09-01 · 1491 · gemini-3.7-flash-high</title></circle>
+<circle cx="583.7" cy="103.5" r="6" fill="transparent"><title>Google · 2026-09-02 · 1495 · gemini-3.8-flash-high</title></circle>
+<circle cx="600.2" cy="104.3" r="6" fill="transparent"><title>Google · 2026-09-11 · 1494 · gemini-3.8-flash-high</title></circle>
+<circle cx="603.8" cy="104.0" r="6" fill="transparent"><title>Google · 2026-09-13 · 1495 · gemini-3.8-flash-high</title></circle>
+<circle cx="625.8" cy="104.3" r="6" fill="transparent"><title>Google · 2026-09-25 · 1494 · gemini-3.8-flash-high</title></circle>
+<circle cx="635.0" cy="67.9" r="6" fill="transparent"><title>Google · 2026-09-30 · 1533 · gemini-4-argon-high</title></circle>
+<circle cx="638.7" cy="67.5" r="6" fill="transparent"><title>Google · 2026-10-02 · 1533 · gemini-4-argon-high</title></circle>
+<circle cx="649.7" cy="67.2" r="6" fill="transparent"><title>Google · 2026-10-08 · 1534 · gemini-4-argon-high</title></circle>
+<circle cx="658.8" cy="67.8" r="6" fill="transparent"><title>Google · 2026-10-13 · 1533 · gemini-4-argon-high</title></circle>
+<circle cx="662.5" cy="68.6" r="6" fill="transparent"><title>Google · 2026-10-15 · 1532 · Gemini 4 Argon (High)</title></circle>
+<circle cx="671.7" cy="68.6" r="6" fill="transparent"><title>Google · 2026-10-20 · 1532 · Gemini 4 Argon (High)</title></circle>
+<circle cx="675.3" cy="74.8" r="6" fill="transparent"><title>Google · 2026-10-22 · 1526 · Gemini 4 Argon (High)</title></circle>
+<circle cx="686.3" cy="61.4" r="6" fill="transparent"><title>Google · 2026-10-28 · 1540 · Gemini 4 Carbon (High)</title></circle>
+<circle cx="702.8" cy="62.3" r="6" fill="transparent"><title>Google · 2026-11-06 · 1539 · Gemini 4 Carbon (High)</title></circle>
+<circle cx="706.5" cy="62.4" r="6" fill="transparent"><title>Google · 2026-11-08 · 1539 · Gemini 4 Carbon (High)</title></circle>
+<circle cx="708.3" cy="63.0" r="6" fill="transparent"><title>Google · 2026-11-09 · 1538 · Gemini 4 Carbon (High)</title></circle>
+<circle cx="712.0" cy="62.9" r="6" fill="transparent"><title>Google · 2026-11-11 · 1538 · Gemini 4 Carbon (High)</title></circle>
+<circle cx="712.0" cy="62.9" r="4" fill="#3987e5" stroke="#0d1117" stroke-width="2"/>
+<polyline points="52.0,167.0 53.8,166.8 55.7,166.7 59.3,167.4 70.3,150.9 79.5,153.2 85.0,151.9 86.8,150.7 92.3,151.0 97.8,150.2 105.2,151.7 107.0,152.6 110.7,152.1 112.5,151.7 116.2,151.6 119.8,150.1 132.7,150.6 151.0,152.9 184.0,151.0 187.7,151.8 202.3,97.7 207.8,96.6 209.7,96.1 211.5,95.6 220.7,95.1 222.5,96.1 226.2,96.2 228.0,96.3 229.8,96.1 231.7,96.1 235.3,96.9 237.2,96.9 239.0,97.5 248.2,95.4 250.0,96.3 251.8,96.4 253.7,96.8 262.8,97.3 272.0,99.9 275.7,100.1 277.5,100.0 279.3,99.8 290.3,98.3 299.5,98.5 303.2,98.8 312.3,99.6 316.0,98.8 317.8,98.4 325.2,99.7 330.7,99.3 336.2,99.8 339.8,99.1 341.7,98.8 349.0,99.5 350.8,99.5 352.7,98.8 354.5,98.5 356.3,98.8 365.5,98.9 367.3,98.5 376.5,99.1 380.2,99.3 387.5,99.1 389.3,99.0 404.0,99.6 416.8,98.6 418.7,98.7 420.5,98.5 429.7,98.4 440.7,98.4 457.2,98.8 470.0,98.2 484.7,97.9 488.3,98.0 492.0,97.9 495.7,97.6 503.0,97.3 504.8,96.6 514.0,93.4 515.8,88.1 521.3,88.1 526.8,92.2 528.7,92.2 534.2,93.7 541.5,91.7 543.3,92.4 545.2,91.7 558.0,94.2 561.7,95.0 572.7,94.5 581.8,94.3 583.7,86.1 600.2,89.2 603.8,91.9 625.8,82.3 635.0,87.8 638.7,88.0 649.7,85.1 658.8,84.4 662.5,84.2 671.7,83.8 675.3,83.8 686.3,84.1 702.8,86.3 706.5,87.0 708.3,86.8 712.0,86.2" fill="none" stroke="#d95926" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="52.0" cy="167.0" r="6" fill="transparent"><title>Anthropic · 2025-11-16 · 1428 · claude-sonnet-4-5-20250929-thinking-32k</title></circle>
+<circle cx="53.8" cy="166.8" r="6" fill="transparent"><title>Anthropic · 2025-11-17 · 1428 · claude-sonnet-4-5-20250929-thinking-32k</title></circle>
+<circle cx="55.7" cy="166.7" r="6" fill="transparent"><title>Anthropic · 2025-11-18 · 1428 · claude-sonnet-4-5-20250929-thinking-32k</title></circle>
+<circle cx="59.3" cy="167.4" r="6" fill="transparent"><title>Anthropic · 2025-11-20 · 1427 · claude-sonnet-4-5-20250929-thinking-32k</title></circle>
+<circle cx="70.3" cy="150.9" r="6" fill="transparent"><title>Anthropic · 2025-11-26 · 1445 · claude-opus-4-5-20251101</title></circle>
+<circle cx="79.5" cy="153.2" r="6" fill="transparent"><title>Anthropic · 2025-12-01 · 1442 · claude-opus-4-5-20251101-thinking-32k</title></circle>
+<circle cx="85.0" cy="151.9" r="6" fill="transparent"><title>Anthropic · 2025-12-04 · 1444 · claude-opus-4-5-20251101</title></circle>
+<circle cx="86.8" cy="150.7" r="6" fill="transparent"><title>Anthropic · 2025-12-05 · 1445 · claude-opus-4-5-20251101-thinking-32k</title></circle>
+<circle cx="92.3" cy="151.0" r="6" fill="transparent"><title>Anthropic · 2025-12-08 · 1445 · claude-opus-4-5-20251101-thinking-32k</title></circle>
+<circle cx="97.8" cy="150.2" r="6" fill="transparent"><title>Anthropic · 2025-12-11 · 1446 · claude-opus-4-5-20251101</title></circle>
+<circle cx="105.2" cy="151.7" r="6" fill="transparent"><title>Anthropic · 2025-12-15 · 1444 · claude-opus-4-5-20251101-thinking-32k</title></circle>
+<circle cx="107.0" cy="152.6" r="6" fill="transparent"><title>Anthropic · 2025-12-16 · 1443 · claude-opus-4-5-20251101-thinking-32k</title></circle>
+<circle cx="110.7" cy="152.1" r="6" fill="transparent"><title>Anthropic · 2025-12-18 · 1443 · claude-opus-4-5-20251101</title></circle>
+<circle cx="112.5" cy="151.7" r="6" fill="transparent"><title>Anthropic · 2025-12-19 · 1444 · claude-opus-4-5-20251101</title></circle>
+<circle cx="116.2" cy="151.6" r="6" fill="transparent"><title>Anthropic · 2025-12-21 · 1444 · claude-opus-4-5-20251101</title></circle>
+<circle cx="119.8" cy="150.1" r="6" fill="transparent"><title>Anthropic · 2025-12-23 · 1446 · claude-opus-4-5-20251101</title></circle>
+<circle cx="132.7" cy="150.6" r="6" fill="transparent"><title>Anthropic · 2025-12-30 · 1445 · claude-opus-4-5-20251101</title></circle>
+<circle cx="151.0" cy="152.9" r="6" fill="transparent"><title>Anthropic · 2026-01-09 · 1443 · claude-opus-4-5-20251101</title></circle>
+<circle cx="184.0" cy="151.0" r="6" fill="transparent"><title>Anthropic · 2026-01-27 · 1445 · claude-opus-4-5-20251101</title></circle>
+<circle cx="187.7" cy="151.8" r="6" fill="transparent"><title>Anthropic · 2026-01-29 · 1444 · claude-opus-4-5-20251101</title></circle>
+<circle cx="202.3" cy="97.7" r="6" fill="transparent"><title>Anthropic · 2026-02-06 · 1501 · claude-opus-4-6-thinking</title></circle>
+<circle cx="207.8" cy="96.6" r="6" fill="transparent"><title>Anthropic · 2026-02-09 · 1503 · claude-opus-4-6-thinking</title></circle>
+<circle cx="209.7" cy="96.1" r="6" fill="transparent"><title>Anthropic · 2026-02-10 · 1503 · claude-opus-4-6-thinking</title></circle>
+<circle cx="211.5" cy="95.6" r="6" fill="transparent"><title>Anthropic · 2026-02-11 · 1504 · claude-opus-4-6-thinking</title></circle>
+<circle cx="220.7" cy="95.1" r="6" fill="transparent"><title>Anthropic · 2026-02-16 · 1504 · claude-opus-4-6-thinking</title></circle>
+<circle cx="222.5" cy="96.1" r="6" fill="transparent"><title>Anthropic · 2026-02-17 · 1503 · claude-opus-4-6-thinking</title></circle>
+<circle cx="226.2" cy="96.2" r="6" fill="transparent"><title>Anthropic · 2026-02-19 · 1503 · claude-opus-4-6</title></circle>
+<circle cx="228.0" cy="96.3" r="6" fill="transparent"><title>Anthropic · 2026-02-20 · 1503 · claude-opus-4-6</title></circle>
+<circle cx="229.8" cy="96.1" r="6" fill="transparent"><title>Anthropic · 2026-02-21 · 1503 · claude-opus-4-6</title></circle>
+<circle cx="231.7" cy="96.1" r="6" fill="transparent"><title>Anthropic · 2026-02-22 · 1503 · claude-opus-4-6</title></circle>
+<circle cx="235.3" cy="96.9" r="6" fill="transparent"><title>Anthropic · 2026-02-24 · 1502 · claude-opus-4-6</title></circle>
+<circle cx="237.2" cy="96.9" r="6" fill="transparent"><title>Anthropic · 2026-02-25 · 1502 · claude-opus-4-6</title></circle>
+<circle cx="239.0" cy="97.5" r="6" fill="transparent"><title>Anthropic · 2026-02-26 · 1502 · claude-opus-4-6</title></circle>
+<circle cx="248.2" cy="95.4" r="6" fill="transparent"><title>Anthropic · 2026-03-03 · 1504 · claude-opus-4-6</title></circle>
+<circle cx="250.0" cy="96.3" r="6" fill="transparent"><title>Anthropic · 2026-03-04 · 1503 · claude-opus-4-6</title></circle>
+<circle cx="251.8" cy="96.4" r="6" fill="transparent"><title>Anthropic · 2026-03-05 · 1503 · claude-opus-4-6</title></circle>
+<circle cx="253.7" cy="96.8" r="6" fill="transparent"><title>Anthropic · 2026-03-06 · 1502 · claude-opus-4-6</title></circle>
+<circle cx="262.8" cy="97.3" r="6" fill="transparent"><title>Anthropic · 2026-03-11 · 1502 · claude-opus-4-6</title></circle>
+<circle cx="272.0" cy="99.9" r="6" fill="transparent"><title>Anthropic · 2026-03-16 · 1499 · claude-opus-4-6</title></circle>
+<circle cx="275.7" cy="100.1" r="6" fill="transparent"><title>Anthropic · 2026-03-18 · 1499 · claude-opus-4-6-thinking</title></circle>
+<circle cx="277.5" cy="100.0" r="6" fill="transparent"><title>Anthropic · 2026-03-19 · 1499 · claude-opus-4-6-thinking</title></circle>
+<circle cx="279.3" cy="99.8" r="6" fill="transparent"><title>Anthropic · 2026-03-20 · 1499 · claude-opus-4-6-thinking</title></circle>
+<circle cx="290.3" cy="98.3" r="6" fill="transparent"><title>Anthropic · 2026-03-26 · 1501 · claude-opus-4-6-thinking</title></circle>
+<circle cx="299.5" cy="98.5" r="6" fill="transparent"><title>Anthropic · 2026-03-31 · 1501 · claude-opus-4-6-thinking</title></circle>
+<circle cx="303.2" cy="98.8" r="6" fill="transparent"><title>Anthropic · 2026-04-02 · 1500 · claude-opus-4-6-thinking</title></circle>
+<circle cx="312.3" cy="99.6" r="6" fill="transparent"><title>Anthropic · 2026-04-07 · 1499 · claude-opus-4-6-thinking</title></circle>
+<circle cx="316.0" cy="98.8" r="6" fill="transparent"><title>Anthropic · 2026-04-09 · 1500 · claude-opus-4-6-thinking</title></circle>
+<circle cx="317.8" cy="98.4" r="6" fill="transparent"><title>Anthropic · 2026-04-10 · 1501 · claude-opus-4-6-thinking</title></circle>
+<circle cx="325.2" cy="99.7" r="6" fill="transparent"><title>Anthropic · 2026-04-14 · 1499 · claude-opus-4-6-thinking</title></circle>
+<circle cx="330.7" cy="99.3" r="6" fill="transparent"><title>Anthropic · 2026-04-17 · 1500 · claude-opus-4-6-thinking</title></circle>
+<circle cx="336.2" cy="99.8" r="6" fill="transparent"><title>Anthropic · 2026-04-20 · 1499 · claude-opus-4-6-thinking</title></circle>
+<circle cx="339.8" cy="99.1" r="6" fill="transparent"><title>Anthropic · 2026-04-22 · 1500 · claude-opus-4-6-thinking</title></circle>
+<circle cx="341.7" cy="98.8" r="6" fill="transparent"><title>Anthropic · 2026-04-23 · 1500 · claude-opus-4-6-thinking</title></circle>
+<circle cx="349.0" cy="99.5" r="6" fill="transparent"><title>Anthropic · 2026-04-27 · 1499 · claude-opus-4-6-thinking</title></circle>
+<circle cx="350.8" cy="99.5" r="6" fill="transparent"><title>Anthropic · 2026-04-28 · 1499 · claude-opus-4-6-thinking</title></circle>
+<circle cx="352.7" cy="98.8" r="6" fill="transparent"><title>Anthropic · 2026-04-29 · 1500 · claude-opus-4-6-thinking</title></circle>
+<circle cx="354.5" cy="98.5" r="6" fill="transparent"><title>Anthropic · 2026-04-30 · 1501 · claude-opus-4-6-thinking</title></circle>
+<circle cx="356.3" cy="98.8" r="6" fill="transparent"><title>Anthropic · 2026-05-01 · 1500 · claude-opus-4-6-thinking</title></circle>
+<circle cx="365.5" cy="98.9" r="6" fill="transparent"><title>Anthropic · 2026-05-06 · 1500 · claude-opus-4-6-thinking</title></circle>
+<circle cx="367.3" cy="98.5" r="6" fill="transparent"><title>Anthropic · 2026-05-07 · 1501 · claude-opus-4-6-thinking</title></circle>
+<circle cx="376.5" cy="99.1" r="6" fill="transparent"><title>Anthropic · 2026-05-12 · 1500 · claude-opus-4-6-thinking</title></circle>
+<circle cx="380.2" cy="99.3" r="6" fill="transparent"><title>Anthropic · 2026-05-14 · 1500 · claude-opus-4-6-thinking</title></circle>
+<circle cx="387.5" cy="99.1" r="6" fill="transparent"><title>Anthropic · 2026-05-18 · 1500 · claude-opus-4-6-thinking</title></circle>
+<circle cx="389.3" cy="99.0" r="6" fill="transparent"><title>Anthropic · 2026-05-19 · 1500 · claude-opus-4-6-thinking</title></circle>
+<circle cx="404.0" cy="99.6" r="6" fill="transparent"><title>Anthropic · 2026-05-27 · 1499 · claude-opus-4-6-thinking</title></circle>
+<circle cx="416.8" cy="98.6" r="6" fill="transparent"><title>Anthropic · 2026-06-03 · 1500 · claude-opus-4-6-thinking</title></circle>
+<circle cx="418.7" cy="98.7" r="6" fill="transparent"><title>Anthropic · 2026-06-04 · 1500 · claude-opus-4-6-thinking</title></circle>
+<circle cx="420.5" cy="98.5" r="6" fill="transparent"><title>Anthropic · 2026-06-05 · 1501 · claude-opus-4-6-thinking</title></circle>
+<circle cx="429.7" cy="98.4" r="6" fill="transparent"><title>Anthropic · 2026-06-10 · 1501 · claude-opus-4-6-thinking</title></circle>
+<circle cx="440.7" cy="98.4" r="6" fill="transparent"><title>Anthropic · 2026-06-16 · 1501 · claude-opus-4-6-thinking</title></circle>
+<circle cx="457.2" cy="98.8" r="6" fill="transparent"><title>Anthropic · 2026-06-25 · 1500 · claude-opus-4-6-thinking</title></circle>
+<circle cx="470.0" cy="98.2" r="6" fill="transparent"><title>Anthropic · 2026-07-02 · 1501 · claude-opus-4-6-thinking</title></circle>
+<circle cx="484.7" cy="97.9" r="6" fill="transparent"><title>Anthropic · 2026-07-10 · 1501 · claude-opus-4-6-thinking</title></circle>
+<circle cx="488.3" cy="98.0" r="6" fill="transparent"><title>Anthropic · 2026-07-12 · 1501 · claude-opus-4-6-thinking</title></circle>
+<circle cx="492.0" cy="97.9" r="6" fill="transparent"><title>Anthropic · 2026-07-14 · 1501 · claude-opus-4-6-thinking</title></circle>
+<circle cx="495.7" cy="97.6" r="6" fill="transparent"><title>Anthropic · 2026-07-16 · 1501 · claude-opus-4-6-thinking</title></circle>
+<circle cx="503.0" cy="97.3" r="6" fill="transparent"><title>Anthropic · 2026-07-20 · 1502 · claude-opus-4-6-thinking</title></circle>
+<circle cx="504.8" cy="96.6" r="6" fill="transparent"><title>Anthropic · 2026-07-21 · 1503 · claude-opus-4-6-thinking</title></circle>
+<circle cx="514.0" cy="93.4" r="6" fill="transparent"><title>Anthropic · 2026-07-26 · 1506 · claude-opus-5-high</title></circle>
+<circle cx="515.8" cy="88.1" r="6" fill="transparent"><title>Anthropic · 2026-07-27 · 1512 · claude-opus-5-max</title></circle>
+<circle cx="521.3" cy="88.1" r="6" fill="transparent"><title>Anthropic · 2026-07-30 · 1512 · claude-opus-5-max</title></circle>
+<circle cx="526.8" cy="92.2" r="6" fill="transparent"><title>Anthropic · 2026-08-02 · 1507 · claude-opus-5-max</title></circle>
+<circle cx="528.7" cy="92.2" r="6" fill="transparent"><title>Anthropic · 2026-08-03 · 1507 · claude-opus-5-max</title></circle>
+<circle cx="534.2" cy="93.7" r="6" fill="transparent"><title>Anthropic · 2026-08-06 · 1506 · claude-opus-5-max</title></circle>
+<circle cx="541.5" cy="91.7" r="6" fill="transparent"><title>Anthropic · 2026-08-10 · 1508 · claude-opus-5-max</title></circle>
+<circle cx="543.3" cy="92.4" r="6" fill="transparent"><title>Anthropic · 2026-08-11 · 1507 · claude-opus-5-max</title></circle>
+<circle cx="545.2" cy="91.7" r="6" fill="transparent"><title>Anthropic · 2026-08-12 · 1508 · claude-opus-5-max</title></circle>
+<circle cx="558.0" cy="94.2" r="6" fill="transparent"><title>Anthropic · 2026-08-19 · 1505 · claude-opus-5-high</title></circle>
+<circle cx="561.7" cy="95.0" r="6" fill="transparent"><title>Anthropic · 2026-08-21 · 1504 · claude-opus-5-high</title></circle>
+<circle cx="572.7" cy="94.5" r="6" fill="transparent"><title>Anthropic · 2026-08-27 · 1505 · claude-opus-5-max</title></circle>
+<circle cx="581.8" cy="94.3" r="6" fill="transparent"><title>Anthropic · 2026-09-01 · 1505 · claude-opus-5-max</title></circle>
+<circle cx="583.7" cy="86.1" r="6" fill="transparent"><title>Anthropic · 2026-09-02 · 1514 · claude-fable-5.1-max</title></circle>
+<circle cx="600.2" cy="89.2" r="6" fill="transparent"><title>Anthropic · 2026-09-11 · 1510 · claude-fable-5.1-max</title></circle>
+<circle cx="603.8" cy="91.9" r="6" fill="transparent"><title>Anthropic · 2026-09-13 · 1508 · claude-fable-5.1-max</title></circle>
+<circle cx="625.8" cy="82.3" r="6" fill="transparent"><title>Anthropic · 2026-09-25 · 1518 · claude-opus-5.5-high</title></circle>
+<circle cx="635.0" cy="87.8" r="6" fill="transparent"><title>Anthropic · 2026-09-30 · 1512 · claude-opus-5.5-high</title></circle>
+<circle cx="638.7" cy="88.0" r="6" fill="transparent"><title>Anthropic · 2026-10-02 · 1512 · claude-opus-5.5-high</title></circle>
+<circle cx="649.7" cy="85.1" r="6" fill="transparent"><title>Anthropic · 2026-10-08 · 1515 · claude-opus-5.5-high</title></circle>
+<circle cx="658.8" cy="84.4" r="6" fill="transparent"><title>Anthropic · 2026-10-13 · 1516 · claude-opus-5.5-high</title></circle>
+<circle cx="662.5" cy="84.2" r="6" fill="transparent"><title>Anthropic · 2026-10-15 · 1516 · Claude Opus 5.5 (High)</title></circle>
+<circle cx="671.7" cy="83.8" r="6" fill="transparent"><title>Anthropic · 2026-10-20 · 1516 · Claude Opus 5.5 (High)</title></circle>
+<circle cx="675.3" cy="83.8" r="6" fill="transparent"><title>Anthropic · 2026-10-22 · 1516 · Claude Opus 5.5 (High)</title></circle>
+<circle cx="686.3" cy="84.1" r="6" fill="transparent"><title>Anthropic · 2026-10-28 · 1516 · Claude Opus 5.5 (High)</title></circle>
+<circle cx="702.8" cy="86.3" r="6" fill="transparent"><title>Anthropic · 2026-11-06 · 1513 · Claude Fable 5.1 (Max)</title></circle>
+<circle cx="706.5" cy="87.0" r="6" fill="transparent"><title>Anthropic · 2026-11-08 · 1513 · Claude Fable 5.1 (Max)</title></circle>
+<circle cx="708.3" cy="86.8" r="6" fill="transparent"><title>Anthropic · 2026-11-09 · 1513 · Claude Opus 5.5 (High)</title></circle>
+<circle cx="712.0" cy="86.2" r="6" fill="transparent"><title>Anthropic · 2026-11-11 · 1514 · Claude Opus 5.5 (High)</title></circle>
+<circle cx="712.0" cy="86.2" r="4" fill="#d95926" stroke="#0d1117" stroke-width="2"/>
+<polyline points="52.0,168.8 53.8,168.9 55.7,155.2 59.3,155.7 70.3,149.6 79.5,152.6 85.0,152.0 86.8,152.2 92.3,151.5 97.8,151.3 105.2,151.2 107.0,150.8 110.7,150.1 112.5,151.2 116.2,151.8 119.8,153.0 132.7,150.3 151.0,151.2 184.0,151.2 187.7,150.6 202.3,151.4 207.8,150.9 209.7,151.3 211.5,152.0 220.7,133.8 222.5,131.5 226.2,148.7 228.0,148.6 229.8,151.9 231.7,151.9 235.3,151.6 237.2,151.5 239.0,151.1 248.2,152.9 250.0,152.1 251.8,151.3 253.7,153.6 262.8,147.8 272.0,122.1 275.7,121.8 277.5,121.9 279.3,122.5 290.3,123.4 299.5,123.9 303.2,122.3 312.3,123.6 316.0,123.3 317.8,123.2 325.2,125.5 330.7,125.3 336.2,124.6 339.8,124.6 341.7,125.3 349.0,123.7 350.8,123.7 352.7,124.2 354.5,124.1 356.3,124.6 365.5,127.4 367.3,128.0 376.5,126.9 380.2,126.7 387.5,126.0 389.3,125.9 404.0,125.0 416.8,126.2 418.7,126.4 420.5,126.4 429.7,126.3 440.7,127.3 457.2,127.6 470.0,127.5 484.7,128.5 488.3,127.8 492.0,127.3 495.7,127.4 503.0,127.2 504.8,127.3 514.0,127.1 515.8,127.3 521.3,127.3 526.8,126.7 528.7,126.7 534.2,127.0 541.5,127.1 543.3,127.0 545.2,126.6 558.0,126.8 561.7,126.4 572.7,125.9 581.8,125.7 583.7,126.0 600.2,126.4 603.8,126.3 625.8,126.1 635.0,126.1 638.7,126.0 649.7,125.8 658.8,125.9 662.5,125.9 671.7,125.9 675.3,125.8 686.3,125.7 702.8,125.9 706.5,126.2 708.3,126.1 712.0,126.1" fill="none" stroke="#199e70" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="52.0" cy="168.8" r="6" fill="transparent"><title>OpenAI · 2025-11-16 · 1426 · chatgpt-4o-latest-20250326</title></circle>
+<circle cx="53.8" cy="168.9" r="6" fill="transparent"><title>OpenAI · 2025-11-17 · 1426 · chatgpt-4o-latest-20250326</title></circle>
+<circle cx="55.7" cy="155.2" r="6" fill="transparent"><title>OpenAI · 2025-11-18 · 1440 · gpt-5.1-high</title></circle>
+<circle cx="59.3" cy="155.7" r="6" fill="transparent"><title>OpenAI · 2025-11-20 · 1440 · gpt-5.1-high</title></circle>
+<circle cx="70.3" cy="149.6" r="6" fill="transparent"><title>OpenAI · 2025-11-26 · 1446 · gpt-5.1-high</title></circle>
+<circle cx="79.5" cy="152.6" r="6" fill="transparent"><title>OpenAI · 2025-12-01 · 1443 · gpt-5.1-high</title></circle>
+<circle cx="85.0" cy="152.0" r="6" fill="transparent"><title>OpenAI · 2025-12-04 · 1444 · gpt-5.1-high</title></circle>
+<circle cx="86.8" cy="152.2" r="6" fill="transparent"><title>OpenAI · 2025-12-05 · 1443 · gpt-5.1-high</title></circle>
+<circle cx="92.3" cy="151.5" r="6" fill="transparent"><title>OpenAI · 2025-12-08 · 1444 · gpt-5.1-high</title></circle>
+<circle cx="97.8" cy="151.3" r="6" fill="transparent"><title>OpenAI · 2025-12-11 · 1444 · gpt-5.1-high</title></circle>
+<circle cx="105.2" cy="151.2" r="6" fill="transparent"><title>OpenAI · 2025-12-15 · 1444 · gpt-5.1-high</title></circle>
+<circle cx="107.0" cy="150.8" r="6" fill="transparent"><title>OpenAI · 2025-12-16 · 1445 · gpt-5.1-high</title></circle>
+<circle cx="110.7" cy="150.1" r="6" fill="transparent"><title>OpenAI · 2025-12-18 · 1446 · gpt-5.1-high</title></circle>
+<circle cx="112.5" cy="151.2" r="6" fill="transparent"><title>OpenAI · 2025-12-19 · 1445 · gpt-5.1-high</title></circle>
+<circle cx="116.2" cy="151.8" r="6" fill="transparent"><title>OpenAI · 2025-12-21 · 1444 · gpt-5.1-high</title></circle>
+<circle cx="119.8" cy="153.0" r="6" fill="transparent"><title>OpenAI · 2025-12-23 · 1443 · gpt-5.1-high</title></circle>
+<circle cx="132.7" cy="150.3" r="6" fill="transparent"><title>OpenAI · 2025-12-30 · 1445 · gpt-5.1-high</title></circle>
+<circle cx="151.0" cy="151.2" r="6" fill="transparent"><title>OpenAI · 2026-01-09 · 1444 · gpt-5.1-high</title></circle>
+<circle cx="184.0" cy="151.2" r="6" fill="transparent"><title>OpenAI · 2026-01-27 · 1444 · gpt-5.1-high</title></circle>
+<circle cx="187.7" cy="150.6" r="6" fill="transparent"><title>OpenAI · 2026-01-29 · 1445 · gpt-5.1-high</title></circle>
+<circle cx="202.3" cy="151.4" r="6" fill="transparent"><title>OpenAI · 2026-02-06 · 1444 · gpt-5.1-high</title></circle>
+<circle cx="207.8" cy="150.9" r="6" fill="transparent"><title>OpenAI · 2026-02-09 · 1445 · gpt-5.1-high</title></circle>
+<circle cx="209.7" cy="151.3" r="6" fill="transparent"><title>OpenAI · 2026-02-10 · 1444 · gpt-5.1-high</title></circle>
+<circle cx="211.5" cy="152.0" r="6" fill="transparent"><title>OpenAI · 2026-02-11 · 1444 · gpt-5.1-high</title></circle>
+<circle cx="220.7" cy="133.8" r="6" fill="transparent"><title>OpenAI · 2026-02-16 · 1463 · gpt-5.2-chat-latest-20260210</title></circle>
+<circle cx="222.5" cy="131.5" r="6" fill="transparent"><title>OpenAI · 2026-02-17 · 1465 · gpt-5.2-chat-latest-20260210</title></circle>
+<circle cx="226.2" cy="148.7" r="6" fill="transparent"><title>OpenAI · 2026-02-19 · 1447 · gpt-5.2-chat-latest-20260210</title></circle>
+<circle cx="228.0" cy="148.6" r="6" fill="transparent"><title>OpenAI · 2026-02-20 · 1447 · gpt-5.2-chat-latest-20260210</title></circle>
+<circle cx="229.8" cy="151.9" r="6" fill="transparent"><title>OpenAI · 2026-02-21 · 1444 · gpt-5.1-high</title></circle>
+<circle cx="231.7" cy="151.9" r="6" fill="transparent"><title>OpenAI · 2026-02-22 · 1444 · gpt-5.1-high</title></circle>
+<circle cx="235.3" cy="151.6" r="6" fill="transparent"><title>OpenAI · 2026-02-24 · 1444 · gpt-5.1-high</title></circle>
+<circle cx="237.2" cy="151.5" r="6" fill="transparent"><title>OpenAI · 2026-02-25 · 1444 · gpt-5.2-chat-latest-20260210</title></circle>
+<circle cx="239.0" cy="151.1" r="6" fill="transparent"><title>OpenAI · 2026-02-26 · 1445 · gpt-5.2-chat-latest-20260210</title></circle>
+<circle cx="248.2" cy="152.9" r="6" fill="transparent"><title>OpenAI · 2026-03-03 · 1443 · gpt-5.2-chat-latest-20260210</title></circle>
+<circle cx="250.0" cy="152.1" r="6" fill="transparent"><title>OpenAI · 2026-03-04 · 1444 · gpt-5.2-chat-latest-20260210</title></circle>
+<circle cx="251.8" cy="151.3" r="6" fill="transparent"><title>OpenAI · 2026-03-05 · 1444 · gpt-5.2-chat-latest-20260210</title></circle>
+<circle cx="253.7" cy="153.6" r="6" fill="transparent"><title>OpenAI · 2026-03-06 · 1442 · gpt-5.2-chat-latest-20260210</title></circle>
+<circle cx="262.8" cy="147.8" r="6" fill="transparent"><title>OpenAI · 2026-03-11 · 1448 · gpt-5.4</title></circle>
+<circle cx="272.0" cy="122.1" r="6" fill="transparent"><title>OpenAI · 2026-03-16 · 1475 · gpt-5.4-high</title></circle>
+<circle cx="275.7" cy="121.8" r="6" fill="transparent"><title>OpenAI · 2026-03-18 · 1476 · gpt-5.4-high</title></circle>
+<circle cx="277.5" cy="121.9" r="6" fill="transparent"><title>OpenAI · 2026-03-19 · 1476 · gpt-5.4-high</title></circle>
+<circle cx="279.3" cy="122.5" r="6" fill="transparent"><title>OpenAI · 2026-03-20 · 1475 · gpt-5.4-high</title></circle>
+<circle cx="290.3" cy="123.4" r="6" fill="transparent"><title>OpenAI · 2026-03-26 · 1474 · gpt-5.4-high</title></circle>
+<circle cx="299.5" cy="123.9" r="6" fill="transparent"><title>OpenAI · 2026-03-31 · 1473 · gpt-5.4-high</title></circle>
+<circle cx="303.2" cy="122.3" r="6" fill="transparent"><title>OpenAI · 2026-04-02 · 1475 · gpt-5.4-high</title></circle>
+<circle cx="312.3" cy="123.6" r="6" fill="transparent"><title>OpenAI · 2026-04-07 · 1474 · gpt-5.4-high</title></circle>
+<circle cx="316.0" cy="123.3" r="6" fill="transparent"><title>OpenAI · 2026-04-09 · 1474 · gpt-5.4-high</title></circle>
+<circle cx="317.8" cy="123.2" r="6" fill="transparent"><title>OpenAI · 2026-04-10 · 1474 · gpt-5.4-high</title></circle>
+<circle cx="325.2" cy="125.5" r="6" fill="transparent"><title>OpenAI · 2026-04-14 · 1472 · gpt-5.4-high</title></circle>
+<circle cx="330.7" cy="125.3" r="6" fill="transparent"><title>OpenAI · 2026-04-17 · 1472 · gpt-5.4-high</title></circle>
+<circle cx="336.2" cy="124.6" r="6" fill="transparent"><title>OpenAI · 2026-04-20 · 1473 · gpt-5.4-high</title></circle>
+<circle cx="339.8" cy="124.6" r="6" fill="transparent"><title>OpenAI · 2026-04-22 · 1473 · gpt-5.4-high</title></circle>
+<circle cx="341.7" cy="125.3" r="6" fill="transparent"><title>OpenAI · 2026-04-23 · 1472 · gpt-5.4-high</title></circle>
+<circle cx="349.0" cy="123.7" r="6" fill="transparent"><title>OpenAI · 2026-04-27 · 1474 · gpt-5.5-high</title></circle>
+<circle cx="350.8" cy="123.7" r="6" fill="transparent"><title>OpenAI · 2026-04-28 · 1474 · gpt-5.5-high</title></circle>
+<circle cx="352.7" cy="124.2" r="6" fill="transparent"><title>OpenAI · 2026-04-29 · 1473 · gpt-5.5-high</title></circle>
+<circle cx="354.5" cy="124.1" r="6" fill="transparent"><title>OpenAI · 2026-04-30 · 1473 · gpt-5.5-high</title></circle>
+<circle cx="356.3" cy="124.6" r="6" fill="transparent"><title>OpenAI · 2026-05-01 · 1473 · gpt-5.5-high</title></circle>
+<circle cx="365.5" cy="127.4" r="6" fill="transparent"><title>OpenAI · 2026-05-06 · 1470 · gpt-5.5-high</title></circle>
+<circle cx="367.3" cy="128.0" r="6" fill="transparent"><title>OpenAI · 2026-05-07 · 1469 · gpt-5.4-high</title></circle>
+<circle cx="376.5" cy="126.9" r="6" fill="transparent"><title>OpenAI · 2026-05-12 · 1470 · gpt-5.4-high</title></circle>
+<circle cx="380.2" cy="126.7" r="6" fill="transparent"><title>OpenAI · 2026-05-14 · 1471 · gpt-5.4-high</title></circle>
+<circle cx="387.5" cy="126.0" r="6" fill="transparent"><title>OpenAI · 2026-05-18 · 1471 · gpt-5.4-high</title></circle>
+<circle cx="389.3" cy="125.9" r="6" fill="transparent"><title>OpenAI · 2026-05-19 · 1471 · gpt-5.4-high</title></circle>
+<circle cx="404.0" cy="125.0" r="6" fill="transparent"><title>OpenAI · 2026-05-27 · 1472 · gpt-5.4-high</title></circle>
+<circle cx="416.8" cy="126.2" r="6" fill="transparent"><title>OpenAI · 2026-06-03 · 1471 · gpt-5.4-high</title></circle>
+<circle cx="418.7" cy="126.4" r="6" fill="transparent"><title>OpenAI · 2026-06-04 · 1471 · gpt-5.4-high</title></circle>
+<circle cx="420.5" cy="126.4" r="6" fill="transparent"><title>OpenAI · 2026-06-05 · 1471 · gpt-5.4-high</title></circle>
+<circle cx="429.7" cy="126.3" r="6" fill="transparent"><title>OpenAI · 2026-06-10 · 1471 · gpt-5.4-high</title></circle>
+<circle cx="440.7" cy="127.3" r="6" fill="transparent"><title>OpenAI · 2026-06-16 · 1470 · gpt-5.4-high</title></circle>
+<circle cx="457.2" cy="127.6" r="6" fill="transparent"><title>OpenAI · 2026-06-25 · 1470 · gpt-5.4-high</title></circle>
+<circle cx="470.0" cy="127.5" r="6" fill="transparent"><title>OpenAI · 2026-07-02 · 1470 · gpt-5.4-high</title></circle>
+<circle cx="484.7" cy="128.5" r="6" fill="transparent"><title>OpenAI · 2026-07-10 · 1469 · gpt-5.5-high</title></circle>
+<circle cx="488.3" cy="127.8" r="6" fill="transparent"><title>OpenAI · 2026-07-12 · 1469 · gpt-5.5-high</title></circle>
+<circle cx="492.0" cy="127.3" r="6" fill="transparent"><title>OpenAI · 2026-07-14 · 1470 · gpt-5.5-high</title></circle>
+<circle cx="495.7" cy="127.4" r="6" fill="transparent"><title>OpenAI · 2026-07-16 · 1470 · gpt-5.4-high</title></circle>
+<circle cx="503.0" cy="127.2" r="6" fill="transparent"><title>OpenAI · 2026-07-20 · 1470 · gpt-5.4-high</title></circle>
+<circle cx="504.8" cy="127.3" r="6" fill="transparent"><title>OpenAI · 2026-07-21 · 1470 · gpt-5.4-high</title></circle>
+<circle cx="514.0" cy="127.1" r="6" fill="transparent"><title>OpenAI · 2026-07-26 · 1470 · gpt-5.4-high</title></circle>
+<circle cx="515.8" cy="127.3" r="6" fill="transparent"><title>OpenAI · 2026-07-27 · 1470 · gpt-5.4-high</title></circle>
+<circle cx="521.3" cy="127.3" r="6" fill="transparent"><title>OpenAI · 2026-07-30 · 1470 · gpt-5.4-high</title></circle>
+<circle cx="526.8" cy="126.7" r="6" fill="transparent"><title>OpenAI · 2026-08-02 · 1470 · gpt-5.5-high</title></circle>
+<circle cx="528.7" cy="126.7" r="6" fill="transparent"><title>OpenAI · 2026-08-03 · 1470 · gpt-5.5-high</title></circle>
+<circle cx="534.2" cy="127.0" r="6" fill="transparent"><title>OpenAI · 2026-08-06 · 1470 · gpt-5.5-high</title></circle>
+<circle cx="541.5" cy="127.1" r="6" fill="transparent"><title>OpenAI · 2026-08-10 · 1470 · gpt-5.5-high</title></circle>
+<circle cx="543.3" cy="127.0" r="6" fill="transparent"><title>OpenAI · 2026-08-11 · 1470 · gpt-5.5-high</title></circle>
+<circle cx="545.2" cy="126.6" r="6" fill="transparent"><title>OpenAI · 2026-08-12 · 1471 · gpt-5.5-high</title></circle>
+<circle cx="558.0" cy="126.8" r="6" fill="transparent"><title>OpenAI · 2026-08-19 · 1470 · gpt-5.5-high</title></circle>
+<circle cx="561.7" cy="126.4" r="6" fill="transparent"><title>OpenAI · 2026-08-21 · 1471 · gpt-5.5-high</title></circle>
+<circle cx="572.7" cy="125.9" r="6" fill="transparent"><title>OpenAI · 2026-08-27 · 1471 · gpt-5.5-high</title></circle>
+<circle cx="581.8" cy="125.7" r="6" fill="transparent"><title>OpenAI · 2026-09-01 · 1472 · gpt-5.5-high</title></circle>
+<circle cx="583.7" cy="126.0" r="6" fill="transparent"><title>OpenAI · 2026-09-02 · 1471 · gpt-5.5-high</title></circle>
+<circle cx="600.2" cy="126.4" r="6" fill="transparent"><title>OpenAI · 2026-09-11 · 1471 · gpt-5.5-high</title></circle>
+<circle cx="603.8" cy="126.3" r="6" fill="transparent"><title>OpenAI · 2026-09-13 · 1471 · gpt-5.5-high</title></circle>
+<circle cx="625.8" cy="126.1" r="6" fill="transparent"><title>OpenAI · 2026-09-25 · 1471 · gpt-5.5-high</title></circle>
+<circle cx="635.0" cy="126.1" r="6" fill="transparent"><title>OpenAI · 2026-09-30 · 1471 · gpt-5.5-high</title></circle>
+<circle cx="638.7" cy="126.0" r="6" fill="transparent"><title>OpenAI · 2026-10-02 · 1471 · gpt-5.5-high</title></circle>
+<circle cx="649.7" cy="125.8" r="6" fill="transparent"><title>OpenAI · 2026-10-08 · 1472 · gpt-5.5-high</title></circle>
+<circle cx="658.8" cy="125.9" r="6" fill="transparent"><title>OpenAI · 2026-10-13 · 1471 · gpt-5.5-high</title></circle>
+<circle cx="662.5" cy="125.9" r="6" fill="transparent"><title>OpenAI · 2026-10-15 · 1471 · gpt-5.5-high</title></circle>
+<circle cx="671.7" cy="125.9" r="6" fill="transparent"><title>OpenAI · 2026-10-20 · 1471 · GPT-5.5 (High)</title></circle>
+<circle cx="675.3" cy="125.8" r="6" fill="transparent"><title>OpenAI · 2026-10-22 · 1472 · GPT-5.5 (High)</title></circle>
+<circle cx="686.3" cy="125.7" r="6" fill="transparent"><title>OpenAI · 2026-10-28 · 1472 · GPT-5.5 (High)</title></circle>
+<circle cx="702.8" cy="125.9" r="6" fill="transparent"><title>OpenAI · 2026-11-06 · 1471 · GPT-5.5 (High)</title></circle>
+<circle cx="706.5" cy="126.2" r="6" fill="transparent"><title>OpenAI · 2026-11-08 · 1471 · GPT-5.5 (High)</title></circle>
+<circle cx="708.3" cy="126.1" r="6" fill="transparent"><title>OpenAI · 2026-11-09 · 1471 · GPT-5.5 (High)</title></circle>
+<circle cx="712.0" cy="126.1" r="6" fill="transparent"><title>OpenAI · 2026-11-11 · 1471 · GPT-5.5 (High)</title></circle>
 <circle cx="712.0" cy="126.1" r="4" fill="#199e70" stroke="#0d1117" stroke-width="2"/>
-<polyline points="52.0,297.5 64.7,297.4 66.5,297.4 68.3,297.4 71.9,297.4 82.7,297.5 91.8,297.6 97.2,297.7 99.0,297.7 104.4,297.6 109.9,297.6 117.1,298.1 118.9,298.0 122.5,298.0 124.3,298.1 127.9,298.1 131.6,297.9 144.2,298.0 162.3,297.9 194.8,298.0 198.5,298.0 212.9,298.0 218.4,298.0 220.2,298.0 222.0,297.9 231.0,298.0 232.8,298.0 236.4,298.0 238.2,298.0 240.1,298.0 241.9,298.0 245.5,298.0 247.3,298.0 249.1,298.0 258.1,298.0 259.9,298.0 261.8,298.0 263.6,298.0 272.6,298.0 281.6,297.5 285.3,298.7 287.1,298.7 288.9,298.7 299.7,298.8 308.8,298.7 312.4,298.7 321.4,298.8 325.0,124.6 326.8,119.1 334.1,116.7 339.5,116.5 344.9,119.3 348.5,122.0 350.4,120.3 357.6,122.7 359.4,122.7 361.2,122.4 363.0,121.6 364.8,120.9 373.9,121.9 375.7,121.6 384.7,121.2 388.3,121.9 395.6,122.5 397.4,122.5 411.8,123.4 424.5,123.5 426.3,123.5 428.1,123.9 437.2,125.2 448.0,125.3 464.3,124.9 476.9,124.8 491.4,119.8 495.0,118.3 498.6,119.0 502.2,116.8 509.5,115.0 511.3,115.2 520.3,117.4 522.1,118.7 527.6,118.7 533.0,120.1 534.8,120.1 540.2,110.5 547.5,110.1 549.3,110.2 551.1,110.0 563.7,110.7 567.3,110.9 578.2,110.2 587.2,109.8 589.0,109.5 605.3,109.1 608.9,108.6 630.6,108.4 639.7,108.2 643.3,108.5 654.1,108.8 663.2,95.4 666.8,98.1 675.8,97.4 679.5,98.5 690.3,99.8 706.6,94.2 710.2,95.0 712.0,96.1" fill="none" stroke="#c98500" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="52.0" cy="297.5" r="6" fill="transparent"><title>Meta · 2025-11-09 · 1289 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="64.7" cy="297.4" r="6" fill="transparent"><title>Meta · 2025-11-16 · 1289 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="66.5" cy="297.4" r="6" fill="transparent"><title>Meta · 2025-11-17 · 1289 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="68.3" cy="297.4" r="6" fill="transparent"><title>Meta · 2025-11-18 · 1289 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="71.9" cy="297.4" r="6" fill="transparent"><title>Meta · 2025-11-20 · 1289 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="82.7" cy="297.5" r="6" fill="transparent"><title>Meta · 2025-11-26 · 1289 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="91.8" cy="297.6" r="6" fill="transparent"><title>Meta · 2025-12-01 · 1289 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="97.2" cy="297.7" r="6" fill="transparent"><title>Meta · 2025-12-04 · 1289 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="99.0" cy="297.7" r="6" fill="transparent"><title>Meta · 2025-12-05 · 1289 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="104.4" cy="297.6" r="6" fill="transparent"><title>Meta · 2025-12-08 · 1289 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="109.9" cy="297.6" r="6" fill="transparent"><title>Meta · 2025-12-11 · 1289 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="117.1" cy="298.1" r="6" fill="transparent"><title>Meta · 2025-12-15 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="118.9" cy="298.0" r="6" fill="transparent"><title>Meta · 2025-12-16 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="122.5" cy="298.0" r="6" fill="transparent"><title>Meta · 2025-12-18 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="124.3" cy="298.1" r="6" fill="transparent"><title>Meta · 2025-12-19 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="127.9" cy="298.1" r="6" fill="transparent"><title>Meta · 2025-12-21 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="131.6" cy="297.9" r="6" fill="transparent"><title>Meta · 2025-12-23 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="144.2" cy="298.0" r="6" fill="transparent"><title>Meta · 2025-12-30 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="162.3" cy="297.9" r="6" fill="transparent"><title>Meta · 2026-01-09 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="194.8" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-01-27 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="198.5" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-01-29 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="212.9" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-02-06 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="218.4" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-02-09 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="220.2" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-02-10 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="222.0" cy="297.9" r="6" fill="transparent"><title>Meta · 2026-02-11 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="231.0" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-02-16 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="232.8" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-02-17 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="236.4" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-02-19 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="238.2" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-02-20 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="240.1" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-02-21 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="241.9" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-02-22 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="245.5" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-02-24 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="247.3" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-02-25 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="249.1" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-02-26 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="258.1" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-03-03 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="259.9" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-03-04 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="261.8" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-03-05 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="263.6" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-03-06 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="272.6" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-03-11 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="281.6" cy="297.5" r="6" fill="transparent"><title>Meta · 2026-03-16 · 1289 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="285.3" cy="298.7" r="6" fill="transparent"><title>Meta · 2026-03-18 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="287.1" cy="298.7" r="6" fill="transparent"><title>Meta · 2026-03-19 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="288.9" cy="298.7" r="6" fill="transparent"><title>Meta · 2026-03-20 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="299.7" cy="298.8" r="6" fill="transparent"><title>Meta · 2026-03-26 · 1287 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="308.8" cy="298.7" r="6" fill="transparent"><title>Meta · 2026-03-31 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="312.4" cy="298.7" r="6" fill="transparent"><title>Meta · 2026-04-02 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="321.4" cy="298.8" r="6" fill="transparent"><title>Meta · 2026-04-07 · 1287 · llama-4-maverick-17b-128e-instruct</title></circle>
-<circle cx="325.0" cy="124.6" r="6" fill="transparent"><title>Meta · 2026-04-09 · 1473 · muse-spark</title></circle>
-<circle cx="326.8" cy="119.1" r="6" fill="transparent"><title>Meta · 2026-04-10 · 1479 · muse-spark</title></circle>
-<circle cx="334.1" cy="116.7" r="6" fill="transparent"><title>Meta · 2026-04-14 · 1481 · muse-spark</title></circle>
-<circle cx="339.5" cy="116.5" r="6" fill="transparent"><title>Meta · 2026-04-17 · 1481 · muse-spark</title></circle>
-<circle cx="344.9" cy="119.3" r="6" fill="transparent"><title>Meta · 2026-04-20 · 1478 · muse-spark</title></circle>
-<circle cx="348.5" cy="122.0" r="6" fill="transparent"><title>Meta · 2026-04-22 · 1476 · muse-spark</title></circle>
-<circle cx="350.4" cy="120.3" r="6" fill="transparent"><title>Meta · 2026-04-23 · 1477 · muse-spark</title></circle>
-<circle cx="357.6" cy="122.7" r="6" fill="transparent"><title>Meta · 2026-04-27 · 1475 · muse-spark</title></circle>
-<circle cx="359.4" cy="122.7" r="6" fill="transparent"><title>Meta · 2026-04-28 · 1475 · muse-spark</title></circle>
-<circle cx="361.2" cy="122.4" r="6" fill="transparent"><title>Meta · 2026-04-29 · 1475 · muse-spark</title></circle>
-<circle cx="363.0" cy="121.6" r="6" fill="transparent"><title>Meta · 2026-04-30 · 1476 · muse-spark</title></circle>
-<circle cx="364.8" cy="120.9" r="6" fill="transparent"><title>Meta · 2026-05-01 · 1477 · muse-spark</title></circle>
-<circle cx="373.9" cy="121.9" r="6" fill="transparent"><title>Meta · 2026-05-06 · 1476 · muse-spark</title></circle>
-<circle cx="375.7" cy="121.6" r="6" fill="transparent"><title>Meta · 2026-05-07 · 1476 · muse-spark</title></circle>
-<circle cx="384.7" cy="121.2" r="6" fill="transparent"><title>Meta · 2026-05-12 · 1476 · muse-spark</title></circle>
-<circle cx="388.3" cy="121.9" r="6" fill="transparent"><title>Meta · 2026-05-14 · 1476 · muse-spark</title></circle>
-<circle cx="395.6" cy="122.5" r="6" fill="transparent"><title>Meta · 2026-05-18 · 1475 · muse-spark</title></circle>
-<circle cx="397.4" cy="122.5" r="6" fill="transparent"><title>Meta · 2026-05-19 · 1475 · muse-spark</title></circle>
-<circle cx="411.8" cy="123.4" r="6" fill="transparent"><title>Meta · 2026-05-27 · 1474 · muse-spark</title></circle>
-<circle cx="424.5" cy="123.5" r="6" fill="transparent"><title>Meta · 2026-06-03 · 1474 · muse-spark</title></circle>
-<circle cx="426.3" cy="123.5" r="6" fill="transparent"><title>Meta · 2026-06-04 · 1474 · muse-spark</title></circle>
-<circle cx="428.1" cy="123.9" r="6" fill="transparent"><title>Meta · 2026-06-05 · 1473 · muse-spark</title></circle>
-<circle cx="437.2" cy="125.2" r="6" fill="transparent"><title>Meta · 2026-06-10 · 1472 · muse-spark</title></circle>
-<circle cx="448.0" cy="125.3" r="6" fill="transparent"><title>Meta · 2026-06-16 · 1472 · muse-spark</title></circle>
-<circle cx="464.3" cy="124.9" r="6" fill="transparent"><title>Meta · 2026-06-25 · 1472 · muse-spark</title></circle>
-<circle cx="476.9" cy="124.8" r="6" fill="transparent"><title>Meta · 2026-07-02 · 1473 · muse-spark</title></circle>
-<circle cx="491.4" cy="119.8" r="6" fill="transparent"><title>Meta · 2026-07-10 · 1478 · muse-spark-1.1</title></circle>
-<circle cx="495.0" cy="118.3" r="6" fill="transparent"><title>Meta · 2026-07-12 · 1479 · muse-spark-1.1</title></circle>
-<circle cx="498.6" cy="119.0" r="6" fill="transparent"><title>Meta · 2026-07-14 · 1479 · muse-spark-1.1</title></circle>
-<circle cx="502.2" cy="116.8" r="6" fill="transparent"><title>Meta · 2026-07-16 · 1481 · muse-spark-1.1</title></circle>
-<circle cx="509.5" cy="115.0" r="6" fill="transparent"><title>Meta · 2026-07-20 · 1483 · muse-spark-1.1</title></circle>
-<circle cx="511.3" cy="115.2" r="6" fill="transparent"><title>Meta · 2026-07-21 · 1483 · muse-spark-1.1</title></circle>
-<circle cx="520.3" cy="117.4" r="6" fill="transparent"><title>Meta · 2026-07-26 · 1480 · muse-spark-1.1</title></circle>
-<circle cx="522.1" cy="118.7" r="6" fill="transparent"><title>Meta · 2026-07-27 · 1479 · muse-spark-1.1</title></circle>
-<circle cx="527.6" cy="118.7" r="6" fill="transparent"><title>Meta · 2026-07-30 · 1479 · muse-spark-1.1</title></circle>
-<circle cx="533.0" cy="120.1" r="6" fill="transparent"><title>Meta · 2026-08-02 · 1478 · muse-spark-1.1</title></circle>
-<circle cx="534.8" cy="120.1" r="6" fill="transparent"><title>Meta · 2026-08-03 · 1478 · muse-spark-1.1</title></circle>
-<circle cx="540.2" cy="110.5" r="6" fill="transparent"><title>Meta · 2026-08-06 · 1488 · muse-spark-1.2 (xHigh)</title></circle>
-<circle cx="547.5" cy="110.1" r="6" fill="transparent"><title>Meta · 2026-08-10 · 1488 · muse-spark-1.2 (xHigh)</title></circle>
-<circle cx="549.3" cy="110.2" r="6" fill="transparent"><title>Meta · 2026-08-11 · 1488 · muse-spark-1.2 (xHigh)</title></circle>
-<circle cx="551.1" cy="110.0" r="6" fill="transparent"><title>Meta · 2026-08-12 · 1488 · muse-spark-1.2 (xHigh)</title></circle>
-<circle cx="563.7" cy="110.7" r="6" fill="transparent"><title>Meta · 2026-08-19 · 1488 · muse-spark-1.2 (xHigh)</title></circle>
-<circle cx="567.3" cy="110.9" r="6" fill="transparent"><title>Meta · 2026-08-21 · 1487 · muse-spark-1.2 (xHigh)</title></circle>
-<circle cx="578.2" cy="110.2" r="6" fill="transparent"><title>Meta · 2026-08-27 · 1488 · muse-spark-1.2 (xHigh)</title></circle>
-<circle cx="587.2" cy="109.8" r="6" fill="transparent"><title>Meta · 2026-09-01 · 1488 · muse-spark-1.2 (xHigh)</title></circle>
-<circle cx="589.0" cy="109.5" r="6" fill="transparent"><title>Meta · 2026-09-02 · 1489 · muse-spark-1.2 (xHigh)</title></circle>
-<circle cx="605.3" cy="109.1" r="6" fill="transparent"><title>Meta · 2026-09-11 · 1489 · muse-spark-1.2 (xHigh)</title></circle>
-<circle cx="608.9" cy="108.6" r="6" fill="transparent"><title>Meta · 2026-09-13 · 1490 · muse-spark-1.3-max</title></circle>
-<circle cx="630.6" cy="108.4" r="6" fill="transparent"><title>Meta · 2026-09-25 · 1490 · muse-spark-1.3-max</title></circle>
-<circle cx="639.7" cy="108.2" r="6" fill="transparent"><title>Meta · 2026-09-30 · 1490 · muse-spark-1.3-max</title></circle>
-<circle cx="643.3" cy="108.5" r="6" fill="transparent"><title>Meta · 2026-10-02 · 1490 · muse-spark-1.3-max</title></circle>
-<circle cx="654.1" cy="108.8" r="6" fill="transparent"><title>Meta · 2026-10-08 · 1490 · muse-spark-1.3-max</title></circle>
-<circle cx="663.2" cy="95.4" r="6" fill="transparent"><title>Meta · 2026-10-13 · 1504 · muse-wonder-max</title></circle>
-<circle cx="666.8" cy="98.1" r="6" fill="transparent"><title>Meta · 2026-10-15 · 1501 · Muse Wonder (Max)</title></circle>
-<circle cx="675.8" cy="97.4" r="6" fill="transparent"><title>Meta · 2026-10-20 · 1502 · Muse Wonder (Max)</title></circle>
-<circle cx="679.5" cy="98.5" r="6" fill="transparent"><title>Meta · 2026-10-22 · 1501 · Muse Wonder (Max)</title></circle>
-<circle cx="690.3" cy="99.8" r="6" fill="transparent"><title>Meta · 2026-10-28 · 1499 · Muse Wonder (Max)</title></circle>
-<circle cx="706.6" cy="94.2" r="6" fill="transparent"><title>Meta · 2026-11-06 · 1505 · Muse Wonder (Max)</title></circle>
-<circle cx="710.2" cy="95.0" r="6" fill="transparent"><title>Meta · 2026-11-08 · 1504 · Muse Wonder (Max)</title></circle>
-<circle cx="712.0" cy="96.1" r="6" fill="transparent"><title>Meta · 2026-11-09 · 1503 · Muse Wonder (Max)</title></circle>
-<circle cx="712.0" cy="96.1" r="4" fill="#c98500" stroke="#0d1117" stroke-width="2"/>
-<text x="726" y="67.0" font-size="12" fill="#f0efec">Google <tspan fill="#c3c2b7" style="font-variant-numeric:tabular-nums">1538</tspan></text>
-<text x="726" y="90.8" font-size="12" fill="#f0efec">Anthropic <tspan fill="#c3c2b7" style="font-variant-numeric:tabular-nums">1513</tspan></text>
-<polyline points="717,96.1 722,101.8" fill="none" stroke="#383835" stroke-width="1"/>
-<text x="726" y="105.8" font-size="12" fill="#f0efec">Meta <tspan fill="#c3c2b7" style="font-variant-numeric:tabular-nums">1503</tspan></text>
+<polyline points="52.0,297.4 53.8,297.4 55.7,297.4 59.3,297.4 70.3,297.5 79.5,297.6 85.0,297.7 86.8,297.7 92.3,297.6 97.8,297.6 105.2,298.1 107.0,298.0 110.7,298.0 112.5,298.1 116.2,298.1 119.8,297.9 132.7,298.0 151.0,297.9 184.0,298.0 187.7,298.0 202.3,298.0 207.8,298.0 209.7,298.0 211.5,297.9 220.7,298.0 222.5,298.0 226.2,298.0 228.0,298.0 229.8,298.0 231.7,298.0 235.3,298.0 237.2,298.0 239.0,298.0 248.2,298.0 250.0,298.0 251.8,298.0 253.7,298.0 262.8,298.0 272.0,297.5 275.7,298.7 277.5,298.7 279.3,298.7 290.3,298.8 299.5,298.7 303.2,298.7 312.3,298.8 316.0,124.6 317.8,119.1 325.2,116.7 330.7,116.5 336.2,119.3 339.8,122.0 341.7,120.3 349.0,122.7 350.8,122.7 352.7,122.4 354.5,121.6 356.3,120.9 365.5,121.9 367.3,121.6 376.5,121.2 380.2,121.9 387.5,122.5 389.3,122.5 404.0,123.4 416.8,123.5 418.7,123.5 420.5,123.9 429.7,125.2 440.7,125.3 457.2,124.9 470.0,124.8 484.7,119.8 488.3,118.3 492.0,119.0 495.7,116.8 503.0,115.0 504.8,115.2 514.0,117.4 515.8,118.7 521.3,118.7 526.8,120.1 528.7,120.1 534.2,110.5 541.5,110.1 543.3,110.2 545.2,110.0 558.0,110.7 561.7,110.9 572.7,110.2 581.8,109.8 583.7,109.5 600.2,109.1 603.8,108.6 625.8,108.4 635.0,108.2 638.7,108.5 649.7,108.8 658.8,95.4 662.5,98.1 671.7,97.4 675.3,98.5 686.3,99.8 702.8,94.2 706.5,95.0 708.3,96.1 712.0,96.2" fill="none" stroke="#c98500" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="52.0" cy="297.4" r="6" fill="transparent"><title>Meta · 2025-11-16 · 1289 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="53.8" cy="297.4" r="6" fill="transparent"><title>Meta · 2025-11-17 · 1289 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="55.7" cy="297.4" r="6" fill="transparent"><title>Meta · 2025-11-18 · 1289 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="59.3" cy="297.4" r="6" fill="transparent"><title>Meta · 2025-11-20 · 1289 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="70.3" cy="297.5" r="6" fill="transparent"><title>Meta · 2025-11-26 · 1289 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="79.5" cy="297.6" r="6" fill="transparent"><title>Meta · 2025-12-01 · 1289 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="85.0" cy="297.7" r="6" fill="transparent"><title>Meta · 2025-12-04 · 1289 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="86.8" cy="297.7" r="6" fill="transparent"><title>Meta · 2025-12-05 · 1289 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="92.3" cy="297.6" r="6" fill="transparent"><title>Meta · 2025-12-08 · 1289 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="97.8" cy="297.6" r="6" fill="transparent"><title>Meta · 2025-12-11 · 1289 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="105.2" cy="298.1" r="6" fill="transparent"><title>Meta · 2025-12-15 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="107.0" cy="298.0" r="6" fill="transparent"><title>Meta · 2025-12-16 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="110.7" cy="298.0" r="6" fill="transparent"><title>Meta · 2025-12-18 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="112.5" cy="298.1" r="6" fill="transparent"><title>Meta · 2025-12-19 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="116.2" cy="298.1" r="6" fill="transparent"><title>Meta · 2025-12-21 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="119.8" cy="297.9" r="6" fill="transparent"><title>Meta · 2025-12-23 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="132.7" cy="298.0" r="6" fill="transparent"><title>Meta · 2025-12-30 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="151.0" cy="297.9" r="6" fill="transparent"><title>Meta · 2026-01-09 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="184.0" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-01-27 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="187.7" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-01-29 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="202.3" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-02-06 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="207.8" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-02-09 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="209.7" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-02-10 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="211.5" cy="297.9" r="6" fill="transparent"><title>Meta · 2026-02-11 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="220.7" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-02-16 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="222.5" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-02-17 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="226.2" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-02-19 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="228.0" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-02-20 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="229.8" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-02-21 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="231.7" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-02-22 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="235.3" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-02-24 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="237.2" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-02-25 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="239.0" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-02-26 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="248.2" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-03-03 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="250.0" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-03-04 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="251.8" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-03-05 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="253.7" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-03-06 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="262.8" cy="298.0" r="6" fill="transparent"><title>Meta · 2026-03-11 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="272.0" cy="297.5" r="6" fill="transparent"><title>Meta · 2026-03-16 · 1289 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="275.7" cy="298.7" r="6" fill="transparent"><title>Meta · 2026-03-18 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="277.5" cy="298.7" r="6" fill="transparent"><title>Meta · 2026-03-19 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="279.3" cy="298.7" r="6" fill="transparent"><title>Meta · 2026-03-20 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="290.3" cy="298.8" r="6" fill="transparent"><title>Meta · 2026-03-26 · 1287 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="299.5" cy="298.7" r="6" fill="transparent"><title>Meta · 2026-03-31 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="303.2" cy="298.7" r="6" fill="transparent"><title>Meta · 2026-04-02 · 1288 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="312.3" cy="298.8" r="6" fill="transparent"><title>Meta · 2026-04-07 · 1287 · llama-4-maverick-17b-128e-instruct</title></circle>
+<circle cx="316.0" cy="124.6" r="6" fill="transparent"><title>Meta · 2026-04-09 · 1473 · muse-spark</title></circle>
+<circle cx="317.8" cy="119.1" r="6" fill="transparent"><title>Meta · 2026-04-10 · 1479 · muse-spark</title></circle>
+<circle cx="325.2" cy="116.7" r="6" fill="transparent"><title>Meta · 2026-04-14 · 1481 · muse-spark</title></circle>
+<circle cx="330.7" cy="116.5" r="6" fill="transparent"><title>Meta · 2026-04-17 · 1481 · muse-spark</title></circle>
+<circle cx="336.2" cy="119.3" r="6" fill="transparent"><title>Meta · 2026-04-20 · 1478 · muse-spark</title></circle>
+<circle cx="339.8" cy="122.0" r="6" fill="transparent"><title>Meta · 2026-04-22 · 1476 · muse-spark</title></circle>
+<circle cx="341.7" cy="120.3" r="6" fill="transparent"><title>Meta · 2026-04-23 · 1477 · muse-spark</title></circle>
+<circle cx="349.0" cy="122.7" r="6" fill="transparent"><title>Meta · 2026-04-27 · 1475 · muse-spark</title></circle>
+<circle cx="350.8" cy="122.7" r="6" fill="transparent"><title>Meta · 2026-04-28 · 1475 · muse-spark</title></circle>
+<circle cx="352.7" cy="122.4" r="6" fill="transparent"><title>Meta · 2026-04-29 · 1475 · muse-spark</title></circle>
+<circle cx="354.5" cy="121.6" r="6" fill="transparent"><title>Meta · 2026-04-30 · 1476 · muse-spark</title></circle>
+<circle cx="356.3" cy="120.9" r="6" fill="transparent"><title>Meta · 2026-05-01 · 1477 · muse-spark</title></circle>
+<circle cx="365.5" cy="121.9" r="6" fill="transparent"><title>Meta · 2026-05-06 · 1476 · muse-spark</title></circle>
+<circle cx="367.3" cy="121.6" r="6" fill="transparent"><title>Meta · 2026-05-07 · 1476 · muse-spark</title></circle>
+<circle cx="376.5" cy="121.2" r="6" fill="transparent"><title>Meta · 2026-05-12 · 1476 · muse-spark</title></circle>
+<circle cx="380.2" cy="121.9" r="6" fill="transparent"><title>Meta · 2026-05-14 · 1476 · muse-spark</title></circle>
+<circle cx="387.5" cy="122.5" r="6" fill="transparent"><title>Meta · 2026-05-18 · 1475 · muse-spark</title></circle>
+<circle cx="389.3" cy="122.5" r="6" fill="transparent"><title>Meta · 2026-05-19 · 1475 · muse-spark</title></circle>
+<circle cx="404.0" cy="123.4" r="6" fill="transparent"><title>Meta · 2026-05-27 · 1474 · muse-spark</title></circle>
+<circle cx="416.8" cy="123.5" r="6" fill="transparent"><title>Meta · 2026-06-03 · 1474 · muse-spark</title></circle>
+<circle cx="418.7" cy="123.5" r="6" fill="transparent"><title>Meta · 2026-06-04 · 1474 · muse-spark</title></circle>
+<circle cx="420.5" cy="123.9" r="6" fill="transparent"><title>Meta · 2026-06-05 · 1473 · muse-spark</title></circle>
+<circle cx="429.7" cy="125.2" r="6" fill="transparent"><title>Meta · 2026-06-10 · 1472 · muse-spark</title></circle>
+<circle cx="440.7" cy="125.3" r="6" fill="transparent"><title>Meta · 2026-06-16 · 1472 · muse-spark</title></circle>
+<circle cx="457.2" cy="124.9" r="6" fill="transparent"><title>Meta · 2026-06-25 · 1472 · muse-spark</title></circle>
+<circle cx="470.0" cy="124.8" r="6" fill="transparent"><title>Meta · 2026-07-02 · 1473 · muse-spark</title></circle>
+<circle cx="484.7" cy="119.8" r="6" fill="transparent"><title>Meta · 2026-07-10 · 1478 · muse-spark-1.1</title></circle>
+<circle cx="488.3" cy="118.3" r="6" fill="transparent"><title>Meta · 2026-07-12 · 1479 · muse-spark-1.1</title></circle>
+<circle cx="492.0" cy="119.0" r="6" fill="transparent"><title>Meta · 2026-07-14 · 1479 · muse-spark-1.1</title></circle>
+<circle cx="495.7" cy="116.8" r="6" fill="transparent"><title>Meta · 2026-07-16 · 1481 · muse-spark-1.1</title></circle>
+<circle cx="503.0" cy="115.0" r="6" fill="transparent"><title>Meta · 2026-07-20 · 1483 · muse-spark-1.1</title></circle>
+<circle cx="504.8" cy="115.2" r="6" fill="transparent"><title>Meta · 2026-07-21 · 1483 · muse-spark-1.1</title></circle>
+<circle cx="514.0" cy="117.4" r="6" fill="transparent"><title>Meta · 2026-07-26 · 1480 · muse-spark-1.1</title></circle>
+<circle cx="515.8" cy="118.7" r="6" fill="transparent"><title>Meta · 2026-07-27 · 1479 · muse-spark-1.1</title></circle>
+<circle cx="521.3" cy="118.7" r="6" fill="transparent"><title>Meta · 2026-07-30 · 1479 · muse-spark-1.1</title></circle>
+<circle cx="526.8" cy="120.1" r="6" fill="transparent"><title>Meta · 2026-08-02 · 1478 · muse-spark-1.1</title></circle>
+<circle cx="528.7" cy="120.1" r="6" fill="transparent"><title>Meta · 2026-08-03 · 1478 · muse-spark-1.1</title></circle>
+<circle cx="534.2" cy="110.5" r="6" fill="transparent"><title>Meta · 2026-08-06 · 1488 · muse-spark-1.2 (xHigh)</title></circle>
+<circle cx="541.5" cy="110.1" r="6" fill="transparent"><title>Meta · 2026-08-10 · 1488 · muse-spark-1.2 (xHigh)</title></circle>
+<circle cx="543.3" cy="110.2" r="6" fill="transparent"><title>Meta · 2026-08-11 · 1488 · muse-spark-1.2 (xHigh)</title></circle>
+<circle cx="545.2" cy="110.0" r="6" fill="transparent"><title>Meta · 2026-08-12 · 1488 · muse-spark-1.2 (xHigh)</title></circle>
+<circle cx="558.0" cy="110.7" r="6" fill="transparent"><title>Meta · 2026-08-19 · 1488 · muse-spark-1.2 (xHigh)</title></circle>
+<circle cx="561.7" cy="110.9" r="6" fill="transparent"><title>Meta · 2026-08-21 · 1487 · muse-spark-1.2 (xHigh)</title></circle>
+<circle cx="572.7" cy="110.2" r="6" fill="transparent"><title>Meta · 2026-08-27 · 1488 · muse-spark-1.2 (xHigh)</title></circle>
+<circle cx="581.8" cy="109.8" r="6" fill="transparent"><title>Meta · 2026-09-01 · 1488 · muse-spark-1.2 (xHigh)</title></circle>
+<circle cx="583.7" cy="109.5" r="6" fill="transparent"><title>Meta · 2026-09-02 · 1489 · muse-spark-1.2 (xHigh)</title></circle>
+<circle cx="600.2" cy="109.1" r="6" fill="transparent"><title>Meta · 2026-09-11 · 1489 · muse-spark-1.2 (xHigh)</title></circle>
+<circle cx="603.8" cy="108.6" r="6" fill="transparent"><title>Meta · 2026-09-13 · 1490 · muse-spark-1.3-max</title></circle>
+<circle cx="625.8" cy="108.4" r="6" fill="transparent"><title>Meta · 2026-09-25 · 1490 · muse-spark-1.3-max</title></circle>
+<circle cx="635.0" cy="108.2" r="6" fill="transparent"><title>Meta · 2026-09-30 · 1490 · muse-spark-1.3-max</title></circle>
+<circle cx="638.7" cy="108.5" r="6" fill="transparent"><title>Meta · 2026-10-02 · 1490 · muse-spark-1.3-max</title></circle>
+<circle cx="649.7" cy="108.8" r="6" fill="transparent"><title>Meta · 2026-10-08 · 1490 · muse-spark-1.3-max</title></circle>
+<circle cx="658.8" cy="95.4" r="6" fill="transparent"><title>Meta · 2026-10-13 · 1504 · muse-wonder-max</title></circle>
+<circle cx="662.5" cy="98.1" r="6" fill="transparent"><title>Meta · 2026-10-15 · 1501 · Muse Wonder (Max)</title></circle>
+<circle cx="671.7" cy="97.4" r="6" fill="transparent"><title>Meta · 2026-10-20 · 1502 · Muse Wonder (Max)</title></circle>
+<circle cx="675.3" cy="98.5" r="6" fill="transparent"><title>Meta · 2026-10-22 · 1501 · Muse Wonder (Max)</title></circle>
+<circle cx="686.3" cy="99.8" r="6" fill="transparent"><title>Meta · 2026-10-28 · 1499 · Muse Wonder (Max)</title></circle>
+<circle cx="702.8" cy="94.2" r="6" fill="transparent"><title>Meta · 2026-11-06 · 1505 · Muse Wonder (Max)</title></circle>
+<circle cx="706.5" cy="95.0" r="6" fill="transparent"><title>Meta · 2026-11-08 · 1504 · Muse Wonder (Max)</title></circle>
+<circle cx="708.3" cy="96.1" r="6" fill="transparent"><title>Meta · 2026-11-09 · 1503 · Muse Wonder (Max)</title></circle>
+<circle cx="712.0" cy="96.2" r="6" fill="transparent"><title>Meta · 2026-11-11 · 1503 · Muse Wonder (Max)</title></circle>
+<circle cx="712.0" cy="96.2" r="4" fill="#c98500" stroke="#0d1117" stroke-width="2"/>
+<text x="726" y="66.9" font-size="12" fill="#f0efec">Google <tspan fill="#c3c2b7" style="font-variant-numeric:tabular-nums">1538</tspan></text>
+<text x="726" y="90.2" font-size="12" fill="#f0efec">Anthropic <tspan fill="#c3c2b7" style="font-variant-numeric:tabular-nums">1514</tspan></text>
+<polyline points="717,96.2 722,101.2" fill="none" stroke="#383835" stroke-width="1"/>
+<text x="726" y="105.2" font-size="12" fill="#f0efec">Meta <tspan fill="#c3c2b7" style="font-variant-numeric:tabular-nums">1503</tspan></text>
 <text x="726" y="130.1" font-size="12" fill="#f0efec">OpenAI <tspan fill="#c3c2b7" style="font-variant-numeric:tabular-nums">1471</tspan></text>
 </svg>
