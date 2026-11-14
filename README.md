@@ -12,32 +12,24 @@ Each day a GitHub Action pulls human-preference rankings (LMArena), a benchmark-
 ## Today
 
 <!-- pulse:start -->
-_Snapshot 2026-11-13 · LMArena published 2026-11-11_
+_Snapshot 2026-11-14 · LMArena published 2026-11-11_
 
 | Model | LMArena text | LMArena WebDev | Epoch ECI | Providers | Uptime 24h | Cheapest output $/M | Precision |
 |---|---|---|---|---|---|---|---|
-| Gemini 4 Argon | #2 (1529) | #13 | 166.48 | 6 | 91.7% | $5.00 | — |
-| Claude Opus 5.5 | #3 (1514) | #2 | 168.54 | 11 | 99.2% | $20.00 | — |
-| Claude Fable 5.1 | #4 (1512) | #7 | 166.99 | 5 | 98.7% | $50.00 | — |
-| Claude Sonnet 5.5 | #34 (1469) | #3 | 166.56 | 10 | 99.2% | $10.00 | — |
-| GPT-6.1 Sol | #66 (1445) | #6 | 168.48 | 9 | 98.9% | $5.00 | — |
-| GPT-6 Astra | #78 (1440) | #5 | 169 | 8 | 99.9% | $25.00 | — |
-| Muse Wonder | #6 (1503) | #22 | 161.68 | 2 | 99.3% | $20.00 | — |
-| Grok 4.7 | #158 (1400) | #24 | 156.18 | 6 | 99.5% | $6.00 | — |
-| Kimi K3 | #28 (1475) | #19 | 158.58 | 28 | 97.7% | $9.50 | fp4/fp8/mxfp4 |
-| Gemma 4 31B (open) | #73 (1443) | #117 | — | 18 | 97.6% | $0.10 | bf16/fp4/fp8 |
+| Gemini 4 Argon | #2 (1529) | #13 | 166.48 | 6 | 95.1% | $5.00 | — |
+| Claude Opus 5.5 | #3 (1514) | #2 | 168.54 | 11 | 99.9% | $20.00 | — |
+| Claude Fable 5.1 | #4 (1512) | #7 | 166.99 | 5 | 99.9% | $50.00 | — |
+| Claude Sonnet 5.5 | #34 (1469) | #3 | 166.56 | 10 | 100% | $10.00 | — |
+| GPT-6.1 Sol | #66 (1445) | #6 | 168.48 | 9 | 99.6% | $5.00 | — |
+| GPT-6 Astra | #78 (1440) | #5 | 169 | 8 | 99.7% | $25.00 | — |
+| Muse Wonder | #6 (1503) | #22 | 161.68 | 2 | 99.2% | $20.00 | — |
+| Grok 4.7 | #158 (1400) | #24 | 156.18 | 6 | 99.6% | $6.00 | — |
+| Kimi K3 | #28 (1475) | #19 | 158.58 | 29 | 97.2% | $9.50 | fp4/fp8/mxfp4 |
+| Gemma 4 31B (open) | #73 (1443) | #117 | — | 18 | 98.6% | $0.10 | bf16/fp4/fp8 |
 
 **Changes since the last snapshot**
 
-- Gemini 4 Argon: WebDev rank 12 → 13
-- GPT-6.1 Sol: LMArena text rank 62 → 66
-- GPT-6 Astra: LMArena text rank 77 → 78
-- Muse Wonder: WebDev rank 21 → 22
-- Grok 4.7: LMArena text rank 160 → 158
-- Grok 4.7: WebDev rank 23 → 24
-- Kimi K3: LMArena text rank 27 → 28
-- Kimi K3: WebDev rank 18 → 19
-- Kimi K3: providers 26 → 28
+- Kimi K3: providers 28 → 29
 <!-- pulse:end -->
 
 ## How to read it
