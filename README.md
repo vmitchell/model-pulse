@@ -12,24 +12,31 @@ Each day a GitHub Action pulls human-preference rankings (LMArena), a benchmark-
 ## Today
 
 <!-- pulse:start -->
-_Snapshot 2026-11-15 · LMArena published 2026-11-11_
+_Snapshot 2026-11-16 · LMArena published 2026-11-11_
 
 | Model | LMArena text | LMArena WebDev | Epoch ECI | Providers | Uptime 24h | Cheapest output $/M | Precision |
 |---|---|---|---|---|---|---|---|
-| Gemini 4 Argon | #2 (1529) | #13 | 166.48 | 6 | 99.1% | $5.00 | — |
+| Gemini 4 Argon | #2 (1529) | #15 | 166.48 | 6 | 97.3% | $5.00 | — |
 | Claude Opus 5.5 | #3 (1514) | #2 | 168.54 | 11 | 100% | $20.00 | — |
 | Claude Fable 5.1 | #4 (1512) | #7 | 166.99 | 5 | 99.9% | $50.00 | — |
 | Claude Sonnet 5.5 | #34 (1469) | #3 | 166.56 | 10 | 100% | $10.00 | — |
-| GPT-6.1 Sol | #66 (1445) | #6 | 168.48 | 9 | 100% | $5.00 | — |
-| GPT-6 Astra | #78 (1440) | #5 | 169 | 8 | 99.4% | $25.00 | — |
-| Muse Wonder | #6 (1503) | #22 | 161.68 | 2 | 100% | $20.00 | — |
-| Grok 4.7 | #158 (1400) | #24 | 156.18 | 6 | 98.7% | $6.00 | — |
-| Kimi K3 | #28 (1475) | #19 | 158.58 | 27 | 98.1% | $9.50 | fp4/fp8/mxfp4 |
-| Gemma 4 31B (open) | #73 (1443) | #117 | — | 18 | 98.6% | $0.10 | bf16/fp4/fp8 |
+| GPT-6.1 Sol | #66 (1445) | #8 | 168.48 | 9 | 96.6% | $5.00 | — |
+| GPT-6 Astra | #78 (1440) | #5 | 169 | 8 | 99.7% | $25.00 | — |
+| Muse Wonder | #6 (1503) | #23 | 161.68 | 2 | 100% | $20.00 | — |
+| Grok 4.7 | #158 (1400) | #25 | 156.18 | 6 | 98.2% | $6.00 | — |
+| Kimi K3 | #28 (1475) | #20 | 158.58 | 28 | 99% | $9.50 | fp4/fp8/mxfp4 |
+| Gemma 4 31B (open) | #73 (1443) | #118 | — | 17 | 96.8% | $0.10 | bf16/fp4/fp8 |
 
 **Changes since the last snapshot**
 
-- Kimi K3: providers 29 → 27
+- Gemini 4 Argon: WebDev rank 13 → 15
+- GPT-6.1 Sol: WebDev rank 6 → 8
+- Muse Wonder: WebDev rank 22 → 23
+- Grok 4.7: WebDev rank 24 → 25
+- Kimi K3: WebDev rank 19 → 20
+- Kimi K3: providers 27 → 28
+- Gemma 4 31B (open): WebDev rank 117 → 118
+- Gemma 4 31B (open): providers 18 → 17
 <!-- pulse:end -->
 
 ## How to read it
